@@ -19,7 +19,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 🛠️ Repository Architecture
-- 📂 `01-Basics/` — [Syntax, I/O, Variables, Loops, Functions]
+- 📂  `01-Basics/` — [Syntax, I/O, Variables, Loops, Functions]
 - 📂 `02-Sorting-Techniques/` — [Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort]
 - 📂 `03-Arrays/` — [Easy, Medium, Hard Array Problems]
 - 📂 `04-Binary-Search/` — [1D Arrays, 2D Arrays, Search Space Problems]
@@ -44,7 +44,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 ## 📈 Daily Problem Log
 
-| Date | Problem Name | Platform | Difficulty | Key Concept / Technique |
+|s.no| Date | Problem Name | Platform | Difficulty | Key Concept / Technique |
+
 
 
 ---
