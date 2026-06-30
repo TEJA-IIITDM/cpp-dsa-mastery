@@ -52,6 +52,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 3 | 30-6-2026 | palindrome number | leetcode | easy | Reverse number & compare with original | 
 
+| 4 | 30-6-2026 | GCD of Odd and Even Sums | LeetCode | Easy | Arithmetic Series Formula + Euclidean GCD — O(1) Time |
+
+
 
 ---
 
