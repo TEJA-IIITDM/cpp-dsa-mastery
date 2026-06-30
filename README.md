@@ -50,6 +50,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 2 | 29-6-2026 | reverse a number | self pratice | easy | Modulo & Division Loop (n%10, n/10, build reverse) | 
 
+| 3 | 30-6-2026 | palindrome number | leetcode | easy | Reverse number & compare with original | 
+
 
 ---
 
