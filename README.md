@@ -56,6 +56,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 5 | 1-7-2026 | armstrong number | self pratice | easy | Sum of digits each raised to power of digit count (pow() function) | 
 
+| 6 | 1-7-2026 | print all divisors | self pratice | easy | Divisor Pairs + Loop till sqrt(n) — O(√n) | 
+
+
 
 
 ---
