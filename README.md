@@ -62,7 +62,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 8 | 1-7-2026 | print name n times | self pratice | easy | Recursion Base Case + Function calling itself N times | 
 
+| 9 | 1-7-2026 | print 1 to n | self pratice | easy | Recursion — Forward (increment counter, base case i>n) |
 
+| 10 | 1-7-2026 | print n to 1 | self pratice | easy | Recursion — Backward (decrement counter, base case i<1) |
 
 ---
 
