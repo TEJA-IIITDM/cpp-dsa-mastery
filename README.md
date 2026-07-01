@@ -60,6 +60,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 7 | 1-7-2026 | check prime | self pratice | easy | Loop till sqrt(n) — if no divisor found then Prime — O(√n) | 
 
+| 8 | 1-7-2026 | print name n times | self pratice | easy | Recursion Base Case + Function calling itself N times | 
 
 
 
