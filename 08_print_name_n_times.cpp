@@ -1,5 +1,5 @@
 // Time Complexity: O(n)
-// Space Complexity: O(1)
+// Space Complexity: O(n) due to recursive stack space
 
 #include<bits/stdc++.h>
 using namespace std;
