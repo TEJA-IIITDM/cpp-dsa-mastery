@@ -58,6 +58,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 6 | 1-7-2026 | print all divisors | self pratice | easy | Divisor Pairs + Loop till sqrt(n) — O(√n) | 
 
+| 7 | 1-7-2026 | check prime | self pratice | easy | Loop till sqrt(n) — if no divisor found then Prime — O(√n) | 
+
 
 
 
