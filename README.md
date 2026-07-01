@@ -54,6 +54,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 4 | 30-6-2026 | GCD of Odd and Even Sums | LeetCode | Easy | Arithmetic Series Formula + Euclidean GCD — O(1) Time |
 
+| 5 | 1-7-2026 | armstrong number | self pratice | easy | Sum of digits each raised to power of digit count (pow() function) | 
+
 
 
 ---
