@@ -68,6 +68,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 11 | 2-7-2026 | sum of first n numbers | self pratice | easy | Recursion — f(n) = n + f(n-1), base case n=0 return 0 |
 
+| 12 | 2-7-2026 | factorial of n | self pratice | easy | Recursion — f(n) = n * f(n-1), base case n=0 return 1 |
 
 ---
 
