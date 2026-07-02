@@ -70,8 +70,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 12 | 2-7-2026 | factorial of n | self pratice | easy | Recursion — f(n) = n * f(n-1), base case n=0 return 1 |
 
-| 13 | 3-7-2026 | reverse string characeters array | Leetcode | easy | Two Pointer — swap characters from both ends moving inward |
+| 13 | 2-7-2026 | reverse string characeters array | Leetcode | easy | Two Pointer — swap characters from both ends moving inward |
 
+| 14 | 2-7-2026 | valid palindrome | Leetcode | easy | Two Pointer — compare characters from both ends, skip non-alphanumeric |
 
 ---
 
