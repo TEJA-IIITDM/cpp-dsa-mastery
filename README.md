@@ -50,7 +50,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 2 | 29-6-2026 | reverse a number | self pratice | easy | Modulo & Division Loop (n%10, n/10, build reverse) | 
 
-| 3 | 30-6-2026 | palindrome number | leetcode | easy | Reverse number & compare with original | 
+| 3 | 30-6-2026 | palindrome number | Leetcode | easy | Reverse number & compare with original | 
 
 | 4 | 30-6-2026 | GCD of Odd and Even Sums | LeetCode | Easy | Arithmetic Series Formula + Euclidean GCD — O(1) Time |
 
@@ -69,6 +69,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 11 | 2-7-2026 | sum of first n numbers | self pratice | easy | Recursion — f(n) = n + f(n-1), base case n=0 return 0 |
 
 | 12 | 2-7-2026 | factorial of n | self pratice | easy | Recursion — f(n) = n * f(n-1), base case n=0 return 1 |
+
+| 13 | 3-7-2026 | reverse string characeters array | Leetcode | easy | Two Pointer — swap characters from both ends moving inward |
+
 
 ---
 
