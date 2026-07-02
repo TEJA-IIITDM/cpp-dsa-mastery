@@ -66,6 +66,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 10 | 1-7-2026 | print n to 1 | self pratice | easy | Recursion — Backward (decrement counter, base case i<1) |
 
+| 11 | 2-7-2026 | sum of first n numbers | self pratice | easy | Recursion — f(n) = n + f(n-1), base case n=0 return 0 |
+
+
 ---
 
 ## 💻 Tech Stack
