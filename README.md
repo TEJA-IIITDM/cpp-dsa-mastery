@@ -78,6 +78,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 16 | 3-7-2026 | counting frequencies of array elements | selfpratice | easy | Hashing — unordered_map freq[x]++ for O(n) counting |
 
+| 17 | 3-7-2026 | finding highest and lowest frequency element in array | selfpratice | easy | Hashing — unordered_map + track maxFreq(0) and minFreq(n) |
+
 ---
 
 ## 💻 Tech Stack
