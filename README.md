@@ -74,6 +74,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 14 | 2-7-2026 | valid palindrome | Leetcode | easy | Two Pointer — compare characters from both ends, skip non-alphanumeric |
 
+| 15 | 3-7-2026 | fibonacci | Leetcode | easy | Space Optimized DP — O(n) time O(1) space, track last two values only |
+
 ---
 
 ## 💻 Tech Stack
