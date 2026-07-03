@@ -76,6 +76,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 15 | 3-7-2026 | fibonacci | Leetcode | easy | Space Optimized DP — O(n) time O(1) space, track last two values only |
 
+| 16 | 3-7-2026 | counting frequencies of array elements | selfpratice | easy | Hashing — unordered_map freq[x]++ for O(n) counting |
+
 ---
 
 ## 💻 Tech Stack
