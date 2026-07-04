@@ -86,6 +86,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 20 | 4-7-2026 | selection sort | self pratice | easy | Find minimum in unsorted part — swap to correct position, O(n²) time O(1) space |
 
+| 21 | 4-7-2026 | insertion sort | self pratice | easy | Find minimum in unsorted part — swap to correct position, O(n²) time O(1) space |
+
+
 
 
 ---
