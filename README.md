@@ -84,6 +84,10 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 19 | 4-7-2026 | bubble sort | self pratice | easy | Adjacent swaps — push largest to end each pass, O(n²) time O(1) space |
 
+| 20 | 4-7-2026 | selection sort | self pratice | easy | Find minimum in unsorted part — swap to correct position, O(n²) time O(1) space |
+
+
+
 ---
 
 ## 💻 Tech Stack
