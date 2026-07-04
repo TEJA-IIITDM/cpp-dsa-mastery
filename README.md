@@ -80,6 +80,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 17 | 3-7-2026 | finding highest and lowest frequency element in array | selfpratice | easy | Hashing — unordered_map + track maxFreq(0) and minFreq(n) |
 
+| 18 | 4-7-2026 | count elements with maximum frequency | Leetcode | easy | Hashing — unordered_map + find maxFreq then count all elements with that frequency |
+
 ---
 
 ## 💻 Tech Stack
