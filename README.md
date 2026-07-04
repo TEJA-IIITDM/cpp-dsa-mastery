@@ -82,6 +82,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 18 | 4-7-2026 | count elements with maximum frequency | Leetcode | easy | Hashing — unordered_map + find maxFreq then count all elements with that frequency |
 
+| 19 | 4-7-2026 | bubble sort | self pratice | easy | Adjacent swaps — push largest to end each pass, O(n²) time O(1) space |
 ---
 
 ## 💻 Tech Stack
