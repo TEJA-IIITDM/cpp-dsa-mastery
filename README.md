@@ -90,6 +90,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 22 | 6-7-2026 | merge sort | self pratice | medium | Divide & Conquer — split until single elements, merge with two pointer technique — O(n log n) |
 
+| 22 | 6-7-2026 | quick sort | self pratice | medium | Partition around pivot — place smaller left, larger right, recurse — O(n log n) avg |
 
 
 ---
