@@ -88,6 +88,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 21 | 4-7-2026 | insertion sort | self pratice | easy | Find minimum in unsorted part — swap to correct position, O(n²) time O(1) space |
 
+| 22 | 6-7-2026 | merge sort | self pratice | medium | Divide & Conquer — split until single elements, merge with two pointer technique — O(n log n) |
 
 
 
