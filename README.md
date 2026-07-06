@@ -11,7 +11,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 📊 Current Progress
-- **Total Problems Solved:** 0
+- **Total Problems Solved:** 21
 - **Current Streak:** 0 days
 - **Current Step:** Step 1 - Learn the Basics
 - **Primary Resource:** [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
