@@ -11,7 +11,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 📊 Current Progress
-- **Total Problems Solved:** 21
+- **Total Problems Solved:** 23
 - **Current Streak:** 0 days
 - **Current Step:** Step 1 - Learn the Basics
 - **Primary Resource:** [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
@@ -90,7 +90,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 22 | 6-7-2026 | merge sort | self pratice | medium | Divide & Conquer — split until single elements, merge with two pointer technique — O(n log n) |
 
-| 22 | 6-7-2026 | quick sort | self pratice | medium | Partition around pivot — place smaller left, larger right, recurse — O(n log n) avg |
+| 23 | 6-7-2026 | quick sort | self pratice | medium | Partition around pivot — place smaller left, larger right, recurse — O(n log n) avg |
 
 
 ---
