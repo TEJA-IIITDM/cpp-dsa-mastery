@@ -11,9 +11,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 📊 Current Progress
-- **Total Problems Solved:** 23
+- **Total Problems Solved:** 25
 - **Current Streak:** 0 days
-- **Current Step:** Step 1 - Learn the Basics
+- **Current Step:** Step 3 - Learn the Arrays
 - **Primary Resource:** [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 ---
@@ -93,6 +93,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 23 | 6-7-2026 | quick sort | self pratice | medium | Partition around pivot — place smaller left, larger right, recurse — O(n log n) avg |
 
 | 24 | 7-7-2026 | recursive bubble sort | self pratice | easy | Recursion — each call = one pass, push largest to end, base case n==1 — O(n²) |
+
+| 25 | 7-7-2026 | recursive insertion sort | self pratice | easy | Recursion — each call = insert one element at correct position, base case i==n — O(n²) |
+
 
 ---
 
