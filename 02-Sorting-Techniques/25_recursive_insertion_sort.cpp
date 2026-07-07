@@ -1,3 +1,13 @@
+/*
+    Problem: recursive insertion sort
+    Platform: self pratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Recursion — each call = insert one element at correct position
+    Time: O(n^2)
+    Space: O(n)
+*/
+
 //time complexity: worst O(n^2) and best O(n)
 //space complexity: O(n)
 #include<bits/stdc++.h>
@@ -23,4 +33,4 @@ int main(){
     }
     return 0;
 }
-   
+    

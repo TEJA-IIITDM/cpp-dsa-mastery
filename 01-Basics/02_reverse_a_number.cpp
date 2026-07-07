@@ -1,3 +1,13 @@
+/*
+    Problem: reverse a number
+    Platform: self pratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Modulo & Division Loop (n%10, n/10, build reverse)
+    Time: O(log n)
+    Space: O(1)
+*/
+
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
 
@@ -16,3 +26,4 @@ int main() {
     return 0;
     
 }
+

@@ -1,3 +1,13 @@
+/*
+    Problem: recursive bubble sort
+    Platform: self pratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Recursion — each call = one pass, push largest to end
+    Time: O(n^2)
+    Space: O(n)
+*/
+
 //time complexity: O(n^2)
 //space complexity: O(n)
 #include<bits/stdc++.h>
@@ -21,3 +31,4 @@ int main(){
     }
     return 0;
 }
+

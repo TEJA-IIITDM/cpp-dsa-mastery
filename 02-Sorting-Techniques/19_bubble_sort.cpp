@@ -1,3 +1,13 @@
+/*
+    Problem: bubble sort
+    Platform: self pratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Adjacent swaps — push largest to end each pass
+    Time: O(n^2)
+    Space: O(1)
+*/
+
 // Time Complexity: O(n^2)
 // Space Complexity: O(1) 
 #include<bits/stdc++.h>
@@ -25,3 +35,4 @@ int main(){
     cout<<endl;
 
 }
+

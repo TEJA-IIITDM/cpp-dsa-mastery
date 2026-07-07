@@ -1,3 +1,13 @@
+/*
+    Problem: print 1 to n
+    Platform: self pratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Recursion — Forward (increment counter, base case i>n)
+    Time: O(n)
+    Space: O(n)
+*/
+
 // Time Complexity: O(n)
 // Space Complexity: O(n) due to recursive stack space
 
@@ -18,3 +28,4 @@ int main() {
     cin >> n;
     print(n);
 }
+

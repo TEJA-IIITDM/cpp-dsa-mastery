@@ -1,3 +1,13 @@
+/*
+    Problem: finding highest and lowest frequency element in array
+    Platform: selfpratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Hashing — unordered_map + track maxFreq(0) and minFreq(n)
+    Time: O(n)
+    Space: O(n)
+*/
+
 // Time Complexity: O(n)
 // Space Complexity: O(n) 
 #include<bits/stdc++.h>
@@ -17,22 +27,15 @@ int main(){
         mp[arr[i]]++;
     }
     int max_freq=0;
-    int max_freq_element=0;
-    int min_freq_element=0;
-    int min_freq=n;
     for(auto [key, value]:mp){
-        cout<<key<<" : "<<value<<endl;
-        if(value>max_freq){
-            max_freq=value;
-            max_freq_element=key;
-        }
-        if(value<min_freq){
-            min_freq=value;
-            min_freq_element=key;
-        }
-
-       
+       max_freq=max(max_freq,value);
     }
-    cout<<"The element with the maximum frequency is: "<<max_freq_element<<" with frequency: "<<max_freq<<endl;
-    cout<<"The element with the minimum frequency is: "<<min_freq_element<<" with frequency: "<<min_freq<<endl;
+    int count=0;
+    for(auto [key, value]:mp){
+        if(value==max_freq){
+            count+=value;
+        }
+    }
+    cout<<"The number of elements with the maximum frequency is: "<<count<<endl;
 }
+

@@ -1,3 +1,13 @@
+/*
+    Problem: quick sort
+    Platform: self pratice
+    Link: N/A
+    Difficulty: medium
+    Approach: Partition around pivot — place smaller left, larger right, recurse
+    Time: O(n log n) average
+    Space: O(log n) average
+*/
+
 //time complexity: O(nlogn) in average case and O(n^2) in worst case
 //space complexity: O(logn) in average case and O(n) in worst case
 #include<bits/stdc++.h>
@@ -30,3 +40,4 @@ int main(){
     }
     return 0;
 }
+

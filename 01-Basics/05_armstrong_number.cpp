@@ -1,3 +1,13 @@
+/*
+    Problem: armstrong number
+    Platform: self pratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Sum of digits each raised to power of digit count (pow() function)
+    Time: O(log10(n))
+    Space: O(1)
+*/
+
 // Time Complexity: O(log10(n))
 // Space Complexity: O(1)
 
@@ -27,4 +37,4 @@ int main() {
     }
     
 }
-   
+    

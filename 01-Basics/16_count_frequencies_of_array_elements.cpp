@@ -1,3 +1,13 @@
+/*
+    Problem: counting frequencies of array elements
+    Platform: selfpratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Hashing — unordered_map freq[x]++ for O(n) counting
+    Time: O(n)
+    Space: O(n)
+*/
+
 // Time Complexity: O(n)
 // Space Complexity: O(n) 
 #include<bits/stdc++.h>
@@ -20,3 +30,4 @@ int main(){
         cout<<key<<"->"<<value<<endl;
     }
 }
+

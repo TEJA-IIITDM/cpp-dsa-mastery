@@ -1,3 +1,13 @@
+/*
+    Problem: print all divisors
+    Platform: self pratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Divisor Pairs + Loop till sqrt(n) — O(√n)
+    Time: O(sqrt(n))
+    Space: O(1)
+*/
+
 // Time Complexity: O(sqrt(n))
 // Space Complexity: O(1)
 
@@ -21,4 +31,4 @@ int main() {
     cin >> n;
     printdivisors(n);
 }
-   
+

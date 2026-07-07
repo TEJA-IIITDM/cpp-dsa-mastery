@@ -1,3 +1,13 @@
+/*
+    Problem: merge sort
+    Platform: self pratice
+    Link: N/A
+    Difficulty: medium
+    Approach: Divide & Conquer — split until single elements, merge with two pointer technique
+    Time: O(n log n)
+    Space: O(n)
+*/
+
 //time complexity of merge sort is O(nlogn) and space complexity is O(n)
 #include<bits/stdc++.h>
 using namespace std;
@@ -34,3 +44,4 @@ int main() {
     cout << endl;
     return 0;
 }
+

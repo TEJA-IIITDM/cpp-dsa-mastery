@@ -1,3 +1,13 @@
+/*
+    Problem: check prime
+    Platform: self pratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Loop till sqrt(n) — if no divisor found then Prime — O(√n)
+    Time: O(sqrt(n))
+    Space: O(1)
+*/
+
 // Time Complexity: O(sqrt(n))
 // Space Complexity: O(1)
 
@@ -28,3 +38,4 @@ int main() {
     }
     return 0;
 }
+

@@ -1,3 +1,13 @@
+/*
+    Problem: selection sort
+    Platform: self pratice
+    Link: N/A
+    Difficulty: easy
+    Approach: Find minimum in unsorted part — swap to correct position
+    Time: O(n^2)
+    Space: O(1)
+*/
+
 // Time Complexity: O(n^2)
 // Space Complexity: O(1) 
 #include<bits/stdc++.h>
@@ -25,3 +35,4 @@ int main(){
         cout<<arr[i]<<" ";
     }
 }
+
