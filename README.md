@@ -73,7 +73,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 25 | 7-7-2026 | [recursive insertion sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/25_recursive_insertion_sort.cpp) | self pratice | easy | Recursion — each call = insert one element at correct position, base case i==n — O(n²) | 02-Sorting-Techniques/25_recursive_insertion_sort.cpp |
 | 26 | 7-7-2026 | [max in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/26_max_in_array.cpp) | self pratice | easy | Linear Scan — track max variable, compare each element, O(n) time O(1) space | 03-Arrays/26_max_in_array.cpp |
 | 27 | 7-7-2026 | [second max and min in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/27_second_max_and_min_in_array.cpp) | self pratice | easy | Single Pass — track largest/second largest and smallest/second smallest simultaneously, O(n) time O(1) space | 03-Arrays/27_second_max_and_min_in_array.cpp | 
-
+| 28 | 7-7-2026 | [check array is sorted](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/28_check_array_is_sorted.cpp) | self pratice | easy | Single Pass — compare each element with the next, return false on first violation, O(n) time O(1) space | 03-Arrays/28_check_array_is_sorted.cpp | 
 
 ---
 
