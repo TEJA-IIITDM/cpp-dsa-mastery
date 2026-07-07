@@ -1,3 +1,13 @@
+/*
+    Problem: fibonacci
+    Platform: LeetCode
+    Link: https://leetcode.com/problems/fibonacci-number/
+    Difficulty: easy
+    Approach: Space Optimized DP — O(n) time O(1) space, track last two values only
+    Time: O(n)
+    Space: O(1)
+*/
+
 // Time Complexity: O(n)
 // Space Complexity: O(1) 
 #include<bits/stdc++.h>
@@ -22,3 +32,4 @@ int main() {
     }
     return 0;
 }
+

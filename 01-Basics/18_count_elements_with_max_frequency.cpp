@@ -1,3 +1,13 @@
+/*
+    Problem: count elements with maximum frequency
+    Platform: LeetCode
+    Link: https://leetcode.com/problems/count-elements-with-maximum-frequency
+    Difficulty: easy
+    Approach: Hashing — unordered_map + find maxFreq then count all elements with that frequency
+    Time: O(n)
+    Space: O(n)
+*/
+
 // Time Complexity: O(n)
 // Space Complexity: O(n) 
 #include<bits/stdc++.h>
@@ -27,3 +37,4 @@ int main(){
     }
     cout<<"The number of elements with the maximum frequency is: "<<count<<endl;
 }
+

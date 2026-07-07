@@ -1,3 +1,13 @@
+/*
+    Problem: valid palindrome
+    Platform: LeetCode
+    Link: https://leetcode.com/problems/valid-palindrome/
+    Difficulty: easy
+    Approach: Two Pointer — compare characters from both ends, skip non-alphanumeric
+    Time: O(n)
+    Space: O(1)
+*/
+
 // Time Complexity: O(n)
 // Space Complexity: O(1) 
 #include<bits/stdc++.h>
@@ -31,3 +41,4 @@ int main() {
     isstringpalindrome(str);
     return 0;
 }
+

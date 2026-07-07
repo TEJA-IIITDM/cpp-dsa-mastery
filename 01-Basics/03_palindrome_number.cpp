@@ -1,3 +1,13 @@
+/*
+    Problem: palindrome number
+    Platform: LeetCode
+    Link: https://leetcode.com/problems/palindrome-number/
+    Difficulty: easy
+    Approach: Reverse number & compare with original
+    Time: O(log n)
+    Space: O(1)
+*/
+
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
 
@@ -29,4 +39,4 @@ int main() {
         cout  << " FALSE " << endl;
     }
 }
-   
+    

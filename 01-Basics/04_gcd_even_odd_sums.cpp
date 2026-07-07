@@ -1,3 +1,13 @@
+/*
+    Problem: GCD of Odd and Even Sums
+    Platform: LeetCode
+    Link: https://leetcode.com/problems/gcd-of-odd-and-even-sums
+    Difficulty: Easy
+    Approach: Arithmetic Series Formula + Euclidean GCD — O(1) Time
+    Time: O(1)
+    Space: O(1)
+*/
+
 // Time Complexity: O(1)
 // Space Complexity: O(1)
 
@@ -26,4 +36,4 @@ int main() {
     cin >> n;
     cout << "GCD of sums is: " << gcd(n) << endl;
 }
-   
+
