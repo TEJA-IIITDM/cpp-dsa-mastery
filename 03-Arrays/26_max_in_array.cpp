@@ -1,5 +1,12 @@
-//time complexity: O(n)
-//space complexity: O(1)
+/*
+    Problem: Find Max in Array
+    Platform: self practice
+    Link: N/A
+    Difficulty: Easy
+    Approach: Linear Scan — track max variable, compare each element
+    Time: O(n)
+    Space: O(1)
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int findmaxinarray(vector<int>& arr){

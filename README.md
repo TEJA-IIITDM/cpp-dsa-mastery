@@ -71,7 +71,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 23 | 6-7-2026 | [quick sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/23_quick_sort.cpp) | self pratice | medium | Partition around pivot — place smaller left, larger right, recurse — O(n log n) avg | 02-Sorting-Techniques/23_quick_sort.cpp |
 | 24 | 7-7-2026 | [recursive bubble sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/24_recursive_bubble_sort.cpp) | self pratice | easy | Recursion — each call = one pass, push largest to end, base case n==1 — O(n²) | 02-Sorting-Techniques/24_recursive_bubble_sort.cpp |
 | 25 | 7-7-2026 | [recursive insertion sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/25_recursive_insertion_sort.cpp) | self pratice | easy | Recursion — each call = insert one element at correct position, base case i==n — O(n²) | 02-Sorting-Techniques/25_recursive_insertion_sort.cpp |
-|26|7-7-2026|find max in array|self practice|easy|Linear Scan — track max variable, compare each element, O(n) time O(1) space|03-Arrays/26_max_in_array.cpp| 
+|26|7-7-2026|find max in array|self practice|easy|Linear Scan — track max variable, compare each element, O(n) time O(1) space|[26_max_in_array.cpp](03-Array/26_max_in_array.cpp)|
 
 
 
