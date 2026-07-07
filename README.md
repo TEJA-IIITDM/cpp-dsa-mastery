@@ -92,6 +92,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 | 23 | 6-7-2026 | quick sort | self pratice | medium | Partition around pivot — place smaller left, larger right, recurse — O(n log n) avg |
 
+| 24 | 7-7-2026 | recursive bubble sort | self pratice | easy | Recursion — each call = one pass, push largest to end, base case n==1 — O(n²) |
 
 ---
 
