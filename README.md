@@ -1,6 +1,6 @@
 # C++ Data Structures & Algorithms Mastery 🚀
 
-Welcome to my central repository for Data Structures and Algorithms (DSA) preparation. This repository serves as a living log of my daily problem-solving journey, algorithmic growth, and interview [...] 
+Welcome to my central repository for Data Structures and Algorithms (DSA) preparation. This repository serves as a living log of my daily problem-solving journey, algorithmic growth, and interview [...]
 
 ## 📌 Objectives
 - Master core data structures and algorithms from absolute scratch.
@@ -44,7 +44,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 ## 📈 Daily Problem Log
 
-|s.no| Date | Problem Name | Platform | Difficulty | Key Concept / Technique | Folder/Path |
+|s.no| Date | Problem Name | Platform | Difficulty | Key Concept / Technique | Folder Path |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 29-6-2026 | [count number of digits](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/01_count_digits.cpp) | self pratice | easy | Modulo & Division Loop | 01-Basics/01_count_digits.cpp |
 | 2 | 29-6-2026 | [reverse a number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/02_reverse_a_number.cpp) | self pratice | easy | Modulo & Division Loop (n%10, n/10, build reverse) | 01-Basics/02_reverse_a_number.cpp |
