@@ -1,6 +1,6 @@
 # C++ Data Structures & Algorithms Mastery 🚀
 
-Welcome to my central repository for Data Structures and Algorithms (DSA) preparation. This repository serves as a living log of my daily problem-solving journey, algorithmic growth, and interview preparation using C++, following the **Striver A2Z DSA Sheet** as my primary roadmap.
+Welcome to my central repository for Data Structures and Algorithms (DSA) preparation. This repository serves as a living log of my daily problem-solving journey, algorithmic growth, and interview [...] 
 
 ## 📌 Objectives
 - Master core data structures and algorithms from absolute scratch.
@@ -44,58 +44,33 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 
 ## 📈 Daily Problem Log
 
-|s.no| Date | Problem Name | Platform | Difficulty | Key Concept / Technique |
-
-| 1 | 29-6-2026 | count number of digits | self pratice | easy | Modulo & Division Loop | 
-
-| 2 | 29-6-2026 | reverse a number | self pratice | easy | Modulo & Division Loop (n%10, n/10, build reverse) | 
-
-| 3 | 30-6-2026 | palindrome number | Leetcode | easy | Reverse number & compare with original | 
-
-| 4 | 30-6-2026 | GCD of Odd and Even Sums | LeetCode | Easy | Arithmetic Series Formula + Euclidean GCD — O(1) Time |
-
-| 5 | 1-7-2026 | armstrong number | self pratice | easy | Sum of digits each raised to power of digit count (pow() function) | 
-
-| 6 | 1-7-2026 | print all divisors | self pratice | easy | Divisor Pairs + Loop till sqrt(n) — O(√n) | 
-
-| 7 | 1-7-2026 | check prime | self pratice | easy | Loop till sqrt(n) — if no divisor found then Prime — O(√n) | 
-
-| 8 | 1-7-2026 | print name n times | self pratice | easy | Recursion Base Case + Function calling itself N times | 
-
-| 9 | 1-7-2026 | print 1 to n | self pratice | easy | Recursion — Forward (increment counter, base case i>n) |
-
-| 10 | 1-7-2026 | print n to 1 | self pratice | easy | Recursion — Backward (decrement counter, base case i<1) |
-
-| 11 | 2-7-2026 | sum of first n numbers | self pratice | easy | Recursion — f(n) = n + f(n-1), base case n=0 return 0 |
-
-| 12 | 2-7-2026 | factorial of n | self pratice | easy | Recursion — f(n) = n * f(n-1), base case n=0 return 1 |
-
-| 13 | 2-7-2026 | reverse string characeters array | Leetcode | easy | Two Pointer — swap characters from both ends moving inward |
-
-| 14 | 2-7-2026 | valid palindrome | Leetcode | easy | Two Pointer — compare characters from both ends, skip non-alphanumeric |
-
-| 15 | 3-7-2026 | fibonacci | Leetcode | easy | Space Optimized DP — O(n) time O(1) space, track last two values only |
-
-| 16 | 3-7-2026 | counting frequencies of array elements | selfpratice | easy | Hashing — unordered_map freq[x]++ for O(n) counting |
-
-| 17 | 3-7-2026 | finding highest and lowest frequency element in array | selfpratice | easy | Hashing — unordered_map + track maxFreq(0) and minFreq(n) |
-
-| 18 | 4-7-2026 | count elements with maximum frequency | Leetcode | easy | Hashing — unordered_map + find maxFreq then count all elements with that frequency |
-
-| 19 | 4-7-2026 | bubble sort | self pratice | easy | Adjacent swaps — push largest to end each pass, O(n²) time O(1) space |
-
-| 20 | 4-7-2026 | selection sort | self pratice | easy | Find minimum in unsorted part — swap to correct position, O(n²) time O(1) space |
-
-| 21 | 4-7-2026 | insertion sort | self pratice | easy | Find minimum in unsorted part — swap to correct position, O(n²) time O(1) space |
-
-| 22 | 6-7-2026 | merge sort | self pratice | medium | Divide & Conquer — split until single elements, merge with two pointer technique — O(n log n) |
-
-| 23 | 6-7-2026 | quick sort | self pratice | medium | Partition around pivot — place smaller left, larger right, recurse — O(n log n) avg |
-
-| 24 | 7-7-2026 | recursive bubble sort | self pratice | easy | Recursion — each call = one pass, push largest to end, base case n==1 — O(n²) |
-
-| 25 | 7-7-2026 | recursive insertion sort | self pratice | easy | Recursion — each call = insert one element at correct position, base case i==n — O(n²) |
-
+|s.no| Date | Problem Name | Platform | Difficulty | Key Concept / Technique | Folder/Path |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 29-6-2026 | [count number of digits](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/01_count_digits.cpp) | self pratice | easy | Modulo & Division Loop | 01-Basics/01_count_digits.cpp |
+| 2 | 29-6-2026 | [reverse a number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/02_reverse_a_number.cpp) | self pratice | easy | Modulo & Division Loop (n%10, n/10, build reverse) | 01-Basics/02_reverse_a_number.cpp |
+| 3 | 30-6-2026 | [palindrome number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/03_palindrome_number.cpp) | Leetcode | easy | Reverse number & compare with original | 01-Basics/03_palindrome_number.cpp |
+| 4 | 30-6-2026 | [GCD of Odd and Even Sums](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/04_gcd_even_odd_sums.cpp) | LeetCode | Easy | Arithmetic Series Formula + Euclidean GCD — O(1) Time | 01-Basics/04_gcd_even_odd_sums.cpp |
+| 5 | 1-7-2026 | [armstrong number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/05_armstrong_number.cpp) | self pratice | easy | Sum of digits each raised to power of digit count (pow() function) | 01-Basics/05_armstrong_number.cpp |
+| 6 | 1-7-2026 | [print all divisors](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/06_print_divisors.cpp) | self pratice | easy | Divisor Pairs + Loop till sqrt(n) — O(√n) | 01-Basics/06_print_divisors.cpp |
+| 7 | 1-7-2026 | [check prime](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/07_check_prime.cpp) | self pratice | easy | Loop till sqrt(n) — if no divisor found then Prime — O(√n) | 01-Basics/07_check_prime.cpp |
+| 8 | 1-7-2026 | [print name n times](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/08_print_name_n_times.cpp) | self pratice | easy | Recursion Base Case + Function calling itself N times | 01-Basics/08_print_name_n_times.cpp |
+| 9 | 1-7-2026 | [print 1 to n](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/09_print_1_to_n.cpp) | self pratice | easy | Recursion — Forward (increment counter, base case i>n) | 01-Basics/09_print_1_to_n.cpp |
+| 10 | 1-7-2026 | [print n to 1](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/10_print_n_to_1.cpp) | self pratice | easy | Recursion — Backward (decrement counter, base case i<1) | 01-Basics/10_print_n_to_1.cpp |
+| 11 | 2-7-2026 | [sum of first n numbers](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/11_sum_of_first_n_numbers.cpp) | self pratice | easy | Recursion — f(n) = n + f(n-1), base case n=0 return 0 | 01-Basics/11_sum_of_first_n_numbers.cpp |
+| 12 | 2-7-2026 | [factorial of n](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/12_factorial_of_n.cpp) | self pratice | easy | Recursion — f(n) = n * f(n-1), base case n=0 return 1 | 01-Basics/12_factorial_of_n.cpp |
+| 13 | 2-7-2026 | [reverse string characeters array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/13_reverse_string_characeters_array.cpp) | Leetcode | easy | Two Pointer — swap characters from both ends moving inward | 01-Basics/13_reverse_string_characeters_array.cpp |
+| 14 | 2-7-2026 | [valid palindrome](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/14_valid_palindrome.cpp) | Leetcode | easy | Two Pointer — compare characters from both ends, skip non-alphanumeric | 01-Basics/14_valid_palindrome.cpp |
+| 15 | 3-7-2026 | [fibonacci](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/15_fibonacci_number.cpp) | Leetcode | easy | Space Optimized DP — O(n) time O(1) space, track last two values only | 01-Basics/15_fibonacci_number.cpp |
+| 16 | 3-7-2026 | [counting frequencies of array elements](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/16_count_frequencies_of_array_elements.cpp) | selfpratice | easy | Hashing — unordered_map freq[x]++ for O(n) counting | 01-Basics/16_count_frequencies_of_array_elements.cpp |
+| 17 | 3-7-2026 | [finding highest and lowest frequency element in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/17_highest_and_lowest_frequency_element.cpp) | selfpratice | easy | Hashing — unordered_map + track maxFreq(0) and minFreq(n) | 01-Basics/17_highest_and_lowest_frequency_element.cpp |
+| 18 | 4-7-2026 | [count elements with maximum frequency](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/01-Basics/18_count_elements_with_max_frequency.cpp) | Leetcode | easy | Hashing — unordered_map + find maxFreq then count all elements with that frequency | 01-Basics/18_count_elements_with_max_frequency.cpp |
+| 19 | 4-7-2026 | [bubble sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/19_bubble_sort.cpp) | self pratice | easy | Adjacent swaps — push largest to end each pass, O(n²) time O(1) space | 02-Sorting-Techniques/19_bubble_sort.cpp |
+| 20 | 4-7-2026 | [selection sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/20_selection_sort.cpp) | self pratice | easy | Find minimum in unsorted part — swap to correct position, O(n²) time O(1) space | 02-Sorting-Techniques/20_selection_sort.cpp |
+| 21 | 4-7-2026 | [insertion sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/21_insertion_sort.cpp) | self pratice | easy | Find minimum in unsorted part — swap to correct position, O(n²) time O(1) space | 02-Sorting-Techniques/21_insertion_sort.cpp |
+| 22 | 6-7-2026 | [merge sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/22_merge_sort.cpp) | self pratice | medium | Divide & Conquer — split until single elements, merge with two pointer technique — O(n log n) | 02-Sorting-Techniques/22_merge_sort.cpp |
+| 23 | 6-7-2026 | [quick sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/23_quick_sort.cpp) | self pratice | medium | Partition around pivot — place smaller left, larger right, recurse — O(n log n) avg | 02-Sorting-Techniques/23_quick_sort.cpp |
+| 24 | 7-7-2026 | [recursive bubble sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/24_recursive_bubble_sort.cpp) | self pratice | easy | Recursion — each call = one pass, push largest to end, base case n==1 — O(n²) | 02-Sorting-Techniques/24_recursive_bubble_sort.cpp |
+| 25 | 7-7-2026 | [recursive insertion sort](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/02-Sorting-Techniques/25_recursive_insertion_sort.cpp) | self pratice | easy | Recursion — each call = insert one element at correct position, base case i==n — O(n²) | 02-Sorting-Techniques/25_recursive_insertion_sort.cpp |
 
 ---
 
