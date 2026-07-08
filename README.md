@@ -79,6 +79,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 31 | 8-7-2026 | [left rotate array by k positions](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/31_left_rotate_array_by_k_positions.cpp) | self pratice | easy | Reversal Algorithm — reverse first k, reverse remaining n-k, reverse whole array, O(n) time O(1) space | 03-Arrays/31_left_rotate_array_by_k_positions.cpp |  
 | 32 | 8-7-2026 | [rotate array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/32_rotate_array.cpp) | Leetcode | medium | Reversal Algorithm — reverse whole, reverse first k, reverse remaining n-k, handles k=0/n/negative, O(n) time O(1) space | 03-Arrays/32_rotate_array.cpp |  
 | 33 | 8-7-2026 | [move zeroes](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/33_move_zeroes_to_end_of_array.cpp) | Leetcode | easy | Two Pointer — j tracks next position for a non-zero element, swap when arr[i] != 0, preserves relative order, O(n) time O(1) space | 03-Arrays/33_move_zeroes_to_end_of_array.cpp |
+| 34 | 8-7-2026 | [linear search in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/34_linear_search_in_array.cpp) | selfpratice | easy | Single Pass — compare each element with target, return index if found, O(n) time O(1) space | 03-Arrays/34_linear_search_in_array.cpp | 
 ---
 
 ## 💻 Tech Stack
