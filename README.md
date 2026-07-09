@@ -81,6 +81,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 33 | 8-7-2026 | [move zeroes](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/33_move_zeroes_to_end_of_array.cpp) | Leetcode | easy | Two Pointer — j tracks next position for a non-zero element, swap when arr[i] != 0, preserves relative order, O(n) time O(1) space | 03-Arrays/33_move_zeroes_to_end_of_array.cpp |
 | 34 | 8-7-2026 | [linear search in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/34_linear_search_in_array.cpp) | selfpratice | easy | Single Pass — compare each element with target, return index if found, O(n) time O(1) space | 03-Arrays/34_linear_search_in_array.cpp | 
 | 35 | 9-7-2026 | [union of two sorted arrays](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/35_union_of_two_sorted_arrays.cpp) | selfpratice | easy | Two Pointer — merge while skipping duplicates, both within and across arrays, O(n+m) time O(n+m) space | 03-Arrays/35_union_of_two_sorted_arrays.cpp |  
+| 36 | 9-7-2026 | [union of two unsorted arrays](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/36_union_of_two_unsorted_arrays.cpp) | selfpratice | easy | Set — insert all elements from both arrays, set auto-handles duplicates and sorting, O((n+m) log(n+m)) time O(n+m) space | 03-Arrays/36_union_of_two_unsorted_arrays.cpp |  
 ---
 
 ## 💻 Tech Stack
