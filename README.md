@@ -84,6 +84,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 36 | 9-7-2026 | [union of two unsorted arrays](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/36_union_of_two_unsorted_arrays.cpp) | selfpratice | easy | Set — insert all elements from both arrays, set auto-handles duplicates and sorting, O((n+m) log(n+m)) time O(n+m) space | 03-Arrays/36_union_of_two_unsorted_arrays.cpp |
 | 37 | 9-7-2026 | [intersection of two sorted arrays](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/37_intersection_of_two_sorted_arrays.cpp) | selfpratice | easy | Two Pointer — move pointer with smaller value, on match push once and move both, O(n+m) time O(min(n,m)) space | 03-Arrays/37_intersection_of_two_sorted_arrays.cpp | 
 | 38 | 9-7-2026 | [intersection of two arrays](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/38_intersection_of_two_arrays.cpp) | Leetcode | easy | Hash Set — store nums1 in set, check membership while scanning nums2, result set auto-handles uniqueness, O(n+m) average time O(n+m) space | 03-Arrays/38_intersection_of_two_arrays.cpp |  
+| 39 | 9-7-2026 | [find missing number in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/39_find_missing_number_in_array.cpp) | selfpratice | easy | XOR — XOR all numbers 1 to n with all array elements, matching pairs cancel out leaving the missing number, O(n) time O(1) space | 03-Arrays/39_find_missing_number_in_array.cpp | 
 ---
 
 ## 💻 Tech Stack
