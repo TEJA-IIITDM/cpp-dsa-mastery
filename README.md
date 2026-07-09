@@ -11,7 +11,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 📊 Current Progress
-- **Total Problems Solved:** 25
+- **Total Problems Solved:** 40
 - **Current Streak:** 0 days
 - **Current Step:** Step 3 - Learn the Arrays
 - **Primary Resource:** [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
@@ -85,6 +85,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 37 | 9-7-2026 | [intersection of two sorted arrays](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/37_intersection_of_two_sorted_arrays.cpp) | selfpratice | easy | Two Pointer — move pointer with smaller value, on match push once and move both, O(n+m) time O(min(n,m)) space | 03-Arrays/37_intersection_of_two_sorted_arrays.cpp | 
 | 38 | 9-7-2026 | [intersection of two arrays](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/38_intersection_of_two_arrays.cpp) | Leetcode | easy | Hash Set — store nums1 in set, check membership while scanning nums2, result set auto-handles uniqueness, O(n+m) average time O(n+m) space | 03-Arrays/38_intersection_of_two_arrays.cpp |  
 | 39 | 9-7-2026 | [find missing number in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/39_find_missing_number_in_array.cpp) | selfpratice | easy | XOR — XOR all numbers 1 to n with all array elements, matching pairs cancel out leaving the missing number, O(n) time O(1) space | 03-Arrays/39_find_missing_number_in_array.cpp | 
+| 40 | 9-7-2026 | [missing number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/40_missing_number.cpp) | Leetcode | easy | Sum Formula — expected sum of 0 to n minus actual array sum, O(n) time O(1) space | 03-Arrays/40_missing_number.cpp |  
 ---
 
 ## 💻 Tech Stack
