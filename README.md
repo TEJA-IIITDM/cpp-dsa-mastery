@@ -86,6 +86,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 38 | 9-7-2026 | [intersection of two arrays](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/38_intersection_of_two_arrays.cpp) | Leetcode | easy | Hash Set — store nums1 in set, check membership while scanning nums2, result set auto-handles uniqueness, O(n+m) average time O(n+m) space | 03-Arrays/38_intersection_of_two_arrays.cpp |  
 | 39 | 9-7-2026 | [find missing number in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/39_find_missing_number_in_array.cpp) | selfpratice | easy | XOR — XOR all numbers 1 to n with all array elements, matching pairs cancel out leaving the missing number, O(n) time O(1) space | 03-Arrays/39_find_missing_number_in_array.cpp | 
 | 40 | 9-7-2026 | [missing number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/40_missing_number.cpp) | Leetcode | easy | Sum Formula — expected sum of 0 to n minus actual array sum, O(n) time O(1) space | 03-Arrays/40_missing_number.cpp |  
+| 41 | 10-7-2026 | [max consecutive ones](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/41_max_consecutive_ones.cpp) | Leetcode | easy | Single Pass — track running count of consecutive 1s, reset on 0, update max along the way, O(n) time O(1) space | 03-Arrays/41_max_consecutive_ones.cpp | 
 ---
 
 ## 💻 Tech Stack
