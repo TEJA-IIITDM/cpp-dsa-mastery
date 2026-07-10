@@ -87,6 +87,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 39 | 9-7-2026 | [find missing number in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/39_find_missing_number_in_array.cpp) | selfpratice | easy | XOR — XOR all numbers 1 to n with all array elements, matching pairs cancel out leaving the missing number, O(n) time O(1) space | 03-Arrays/39_find_missing_number_in_array.cpp | 
 | 40 | 9-7-2026 | [missing number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/40_missing_number.cpp) | Leetcode | easy | Sum Formula — expected sum of 0 to n minus actual array sum, O(n) time O(1) space | 03-Arrays/40_missing_number.cpp |  
 | 41 | 10-7-2026 | [max consecutive ones](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/41_max_consecutive_ones.cpp) | Leetcode | easy | Single Pass — track running count of consecutive 1s, reset on 0, update max along the way, O(n) time O(1) space | 03-Arrays/41_max_consecutive_ones.cpp | 
+| 42 | 10-7-2026 | [single number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/42_single_number.cpp) | Leetcode | easy | XOR — XOR all elements together, duplicates cancel out (a^a=0), leaving the single unique number, O(n) time O(1) space | 03-Arrays/42_single_number.cpp | 
 ---
 
 ## 💻 Tech Stack
