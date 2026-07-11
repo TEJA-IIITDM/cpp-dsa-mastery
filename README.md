@@ -92,6 +92,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 44 | 10-7-2026 | [longest sub array with sum k(positive and negative elements, prefix sum + hashmap)](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/44_longest_sub_array_with_sum.cpp) | self pratcie | medium | Prefix Sum + Hash Map — store first occurrence of each prefix sum, check if (currentSum - k) was seen before, O(n) time O(n) space | 03-Arrays/44_longest_sub_array_with_sum.cpp | 
 | 45 | 11-7-2026 | [two sum](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/45_two_sum.cpp) | Leetcode | easy | Hash Map — store value to index mapping, check if complement (target - current) was seen before, O(n) time O(n) space | 03-Arrays/45_two_sum.cpp | 
 | 46 | 11-7-2026 | [sort colors](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/46_sort_colors.cpp) | Leetcode | medium | Dutch National Flag Algorithm — three pointers (low, mid, high) partition array into 0s, 1s, 2s in one pass, O(n) time O(1) space | 03-Arrays/46_sort_colors.cpp | 
+| 47 | 11-7-2026 | [majority element](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/47_majority_element.cpp) | Leetcode | easy | Moore's Voting Algorithm — maintain candidate and count, count++ on match, count-- otherwise, switch candidate when count hits 0, O(n) time O(1) space | 03-Arrays/47_majority_element.cpp |  
 ---
 
 ## 💻 Tech Stack
