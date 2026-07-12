@@ -94,6 +94,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 46 | 11-7-2026 | [sort colors](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/46_sort_colors.cpp) | Leetcode | medium | Dutch National Flag Algorithm — three pointers (low, mid, high) partition array into 0s, 1s, 2s in one pass, O(n) time O(1) space | 03-Arrays/46_sort_colors.cpp | 
 | 47 | 11-7-2026 | [majority element](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/47_majority_element.cpp) | Leetcode | easy | Moore's Voting Algorithm — maintain candidate and count, count++ on match, count-- otherwise, switch candidate when count hits 0, O(n) time O(1) space | 03-Arrays/47_majority_element.cpp |  
 | 48 | 12-7-2026 | [maximum subarray](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/48_maximum_sub_array.cpp) | Leetcode | medium | Kadane's Algorithm — maintain running sum, reset to 0 whenever it goes negative, track max along the way, O(n) time O(1) space | 03-Arrays/48_maximum_sub_array.cpp |  
+| 49 | 12-7-2026 | [best time to buy and sell stock](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/49_best_time_to_buy_and_sell_stock.cpp) | Leetcode | easy | Single Pass — track minimum price seen so far, update max profit using (current price - min price so far), O(n) time O(1) space | 03-Arrays/49_best_time_to_buy_and_sell_stock.cpp |  
 ---
 
 ## 💻 Tech Stack
