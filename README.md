@@ -98,6 +98,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 50 | 13-7-2026 | [rearrange array elements by sign](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/50_rearrange_array_elements_by_sign.cpp) | Leetcode | medium | Two-Pointer Pass (Equal Pos/Neg) — place positives at even indices and negatives at odd indices, O(n) time O(n) space | 03-Arrays/50_rearrange_array_elements_by_sign.cpp |  
 | 51 | 13-7-2026 | [rearrange array elements by sign (unequal postive and negative elements)](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/51_rearrange_elements_by_sign_unequal_pos_and_neg.cpp) | self pratice | medium | Separate & Alternate Loop (Unequal Pos/Neg) — group elements by sign, alternate them, then append left-overs, O(n) time O(n) space | 03-Arrays/51_rearrange_elements_by_sign_unequal_pos_and_neg.cpp |  
 | 52 | 13-7-2026 | [leaders in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/52_leaders_in_array.cpp) | self pratice | easy | Scan from Right — maintain max seen from right to left, O(n) time O(1) space | 03-Arrays/52_leaders_in_array.cpp |  
+| 53 | 13-7-2026 | [replace element with greatest element on right side](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/53_replace_element_with_greatest_element_on_right_side.cpp) | Leetcode | easy | Scan from Right — track max from right to left to update array elements, O(n) time O(1) space | 03-Arrays/53_replace_element_with_greatest_element_on_right_side.cpp |  
 ---
 
 ## 💻 Tech Stack
