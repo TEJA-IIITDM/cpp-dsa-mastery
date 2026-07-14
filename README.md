@@ -101,6 +101,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 53 | 13-7-2026 | [replace element with greatest element on right side](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/53_replace_element_with_greatest_element_on_right_side.cpp) | Leetcode | easy | Scan from Right — track max from right to left to update array elements, O(n) time O(1) space | 03-Arrays/53_replace_element_with_greatest_element_on_right_side.cpp | 
 | 54 | 13-7-2026 | [longest consecutive sequences](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/54_longest_consecutive_sequences.cpp) | Leetcode | medium | Hash Set — only start counting from true sequence beginnings (where x-1 doesn't exist), walk forward counting consecutive elements, O(n) time O(n) space | 03-Arrays/54_longest_consecutive_sequences.cpp |  
 | 55 | 14-7-2026 | [next permutation](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/55_next_permutation.cpp) | Leetcode | medium | Find rightmost pivot where arr[i] < arr[i+1], swap with smallest greater element to its right, reverse the suffix after pivot, O(n) time O(1) space | 03-Arrays/55_next_permutation.cpp |  
+| 56 | 14-7-2026 | [set matrix zeroes](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/56_set_matrix_zeroes.cpp) | Leetcode | medium | Use first row and first column of matrix itself as marker storage, track first column separately with a flag, O(rows*cols) time O(1) space | 03-Arrays/56_set_matrix_zeroes.cpp |  
 ---
 
 ## 💻 Tech Stack
