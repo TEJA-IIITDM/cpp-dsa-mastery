@@ -104,6 +104,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 56 | 14-7-2026 | [set matrix zeroes](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/56_set_matrix_zeroes.cpp) | Leetcode | medium | Use first row and first column of matrix itself as marker storage, track first column separately with a flag, O(rows*cols) time O(1) space | 03-Arrays/56_set_matrix_zeroes.cpp |  
 | 57 | 15-7-2026 | [rotate image](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/57_rotate_image.cpp) | Leetcode | medium | Transpose the matrix (swap across diagonal), then reverse each row — achieves 90 degree clockwise rotation in-place, O(n^2) time O(1) space | 03-Arrays/57_rotate_image.cpp |   
 | 58 | 15-7-2026 | [spiral matrix](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/58_spiral_matrix.cpp) | Leetcode | medium | Four shrinking boundaries (top, bottom, left, right) — traverse right, down, left, up in a loop, shrinking boundaries after each direction, O(rows*cols) time O(1) extra space | 03-Arrays/58_spiral_matrix.cpp |   
+| 59 | 15-7-2026 | [subarray sum equals k](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/59_sub_array_sum_equals_k.cpp) | Leetcode | medium | Prefix Sum + Hash Map — track frequency of each prefix sum seen so far, check if (currentSum - k) has occurred before, add its frequency to count, O(n) time O(n) space | 03-Arrays/59_sub_array_sum_equals_k.cpp |   
 ---
 
 ## 💻 Tech Stack
