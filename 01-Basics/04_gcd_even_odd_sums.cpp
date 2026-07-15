@@ -3,7 +3,8 @@
     Platform: LeetCode
     Link: https://leetcode.com/problems/gcd-of-odd-and-even-sums
     Difficulty: Easy
-    Approach: Arithmetic Series Formula + Euclidean GCD — O(1) Time
+    Approach:  Mathematical simplification — GCD(n(n+1), n^2) = n * GCD(n+1,n) = n * 1 = n, since consecutive integers are always coprime
+    Time: O(1)
     Time: O(1)
     Space: O(1)
 */
@@ -15,20 +16,8 @@
 using namespace std;
 
 int gcd(int n) {
-    int sumeven, sumodd;
-    sumeven=n*(n+1);
-    sumodd=n*n;
-    
-    return __gcd(sumeven, sumodd);
-}   
-
-int __gcd(int a, int b) {
-    if (b == 0)
-        return a;
-    return __gcd(b, a % b);
+   return n;  //GCD of sum of first n evens and first n odds is always just n
 }
-
-
 int main() {
     
     int n;
