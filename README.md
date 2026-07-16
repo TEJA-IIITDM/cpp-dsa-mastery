@@ -108,7 +108,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 60 | 16-7-2026 | [pascal's triangle](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/60_pascal's_triangle.cpp) | Leetcode | easy | Build each row from the previous row — first/last are 1, middle values are sum of two values directly above, O(numRows^2) time O(numRows^2) space | 03-Arrays/60_pascal's_triangle.cpp |   
 | 61 | 16-7-2026 | [pascal's triangle II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/61_pascal's_triangle_II.cpp) | Leetcode | easy | Combinatorics Formula — C(rowIndex,i) = C(rowIndex,i-1) * (rowIndex-i+1) / i, computed directly without needing previous rows, O(rowIndex) time O(rowIndex) space | 03-Arrays/61_pascal's_triangle_II.cpp |   
 | 62 | 16-7-2026 | [majority element II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/62_majority_element_II.cpp) | Leetcode | medium | Extended Moore's Voting Algorithm — track two candidates and their counts, verify actual frequency in a second pass, O(n) time O(1) space | 03-Arrays/62_majority_element_II.cpp |   
-
+| 63 | 16-7-2026 | [3 sum](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/63_3_sum.cpp) | Leetcode | medium | Sort array, fix one element (only while nums[i]<=0), use two-pointer to find pairs summing to its negative, skip duplicates, O(n^2) time O(1) extra space | 03-Arrays/63_3_sum.cpp |   
 ---
 
 ## 💻 Tech Stack
