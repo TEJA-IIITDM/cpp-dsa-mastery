@@ -107,6 +107,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 59 | 15-7-2026 | [subarray sum equals k](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/59_sub_array_sum_equals_k.cpp) | Leetcode | medium | Prefix Sum + Hash Map — track frequency of each prefix sum seen so far, check if (currentSum - k) has occurred before, add its frequency to count, O(n) time O(n) space | 03-Arrays/59_sub_array_sum_equals_k.cpp | 
 | 60 | 16-7-2026 | [pascal's triangle](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/60_pascal's_triangle.cpp) | Leetcode | easy | Build each row from the previous row — first/last are 1, middle values are sum of two values directly above, O(numRows^2) time O(numRows^2) space | 03-Arrays/60_pascal's_triangle.cpp |   
 | 61 | 16-7-2026 | [pascal's triangle II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/61_pascal's_triangle_II.cpp) | Leetcode | easy | Combinatorics Formula — C(rowIndex,i) = C(rowIndex,i-1) * (rowIndex-i+1) / i, computed directly without needing previous rows, O(rowIndex) time O(rowIndex) space | 03-Arrays/61_pascal's_triangle_II.cpp |   
+| 62 | 16-7-2026 | [majority element II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/62_majority_element_II.cpp) | Leetcode | medium | Extended Moore's Voting Algorithm — track two candidates and their counts, verify actual frequency in a second pass, O(n) time O(1) space | 03-Arrays/62_majority_element_II.cpp |   
+
 ---
 
 ## 💻 Tech Stack
