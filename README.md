@@ -11,7 +11,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 📊 Current Progress
-- **Total Problems Solved:** 40
+- **Total Problems Solved:** 61
 - **Current Streak:** 0 days
 - **Current Step:** Step 3 - Learn the Arrays
 - **Primary Resource:** [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
@@ -105,7 +105,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 57 | 15-7-2026 | [rotate image](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/57_rotate_image.cpp) | Leetcode | medium | Transpose the matrix (swap across diagonal), then reverse each row — achieves 90 degree clockwise rotation in-place, O(n^2) time O(1) space | 03-Arrays/57_rotate_image.cpp |   
 | 58 | 15-7-2026 | [spiral matrix](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/58_spiral_matrix.cpp) | Leetcode | medium | Four shrinking boundaries (top, bottom, left, right) — traverse right, down, left, up in a loop, shrinking boundaries after each direction, O(rows*cols) time O(1) extra space | 03-Arrays/58_spiral_matrix.cpp |   
 | 59 | 15-7-2026 | [subarray sum equals k](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/59_sub_array_sum_equals_k.cpp) | Leetcode | medium | Prefix Sum + Hash Map — track frequency of each prefix sum seen so far, check if (currentSum - k) has occurred before, add its frequency to count, O(n) time O(n) space | 03-Arrays/59_sub_array_sum_equals_k.cpp | 
-| 60 | 16-7-2026 | [pascal's triangle](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/60_pascal's_triangle.cpp) | Leetcode | easy | Build each row from the previous row — first/last are 1, middle values are sum of two values directly above, O(numRows^2) time O(numRows^2) space | 03-Arrays/60_pascal's_triangle.cpp |     
+| 60 | 16-7-2026 | [pascal's triangle](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/60_pascal's_triangle.cpp) | Leetcode | easy | Build each row from the previous row — first/last are 1, middle values are sum of two values directly above, O(numRows^2) time O(numRows^2) space | 03-Arrays/60_pascal's_triangle.cpp |   
+| 61 | 16-7-2026 | [pascal's triangle II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/61_pascal's_triangle_II.cpp) | Leetcode | easy | Combinatorics Formula — C(rowIndex,i) = C(rowIndex,i-1) * (rowIndex-i+1) / i, computed directly without needing previous rows, O(rowIndex) time O(rowIndex) space | 03-Arrays/61_pascal's_triangle_II.cpp |   
 ---
 
 ## 💻 Tech Stack
