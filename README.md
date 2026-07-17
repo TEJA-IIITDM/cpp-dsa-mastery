@@ -111,6 +111,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 63 | 16-7-2026 | [3 sum](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/63_3_sum.cpp) | Leetcode | medium | Sort array, fix one element (only while nums[i]<=0), use two-pointer to find pairs summing to its negative, skip duplicates, O(n^2) time O(1) extra space | 03-Arrays/63_3_sum.cpp | 
 | 64 | 16-7-2026 | [4 sum](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/64_4_sum.cpp) | Leetcode | medium | Sort array, fix two elements (i,j) with duplicate skipping, use two-pointer on remaining part, skip duplicates, O(n^3) time O(1) extra space | 03-Arrays/64_4_sum.cpp |  '
 | 65 | 17-7-2026 | [length of longest sub array with zero sum](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/65_length_of_longest_sub_array_with_zero_sum.cpp) | self pratice | medium | Prefix Sum + Hash Map — store first occurrence of each prefix sum, if same prefix sum seen again, subarray between them sums to zero, O(n) time O(n) space | 03-Arrays/65_length_of_longest_sub_array_with_zero_sum.cpp |   
+| 66 | 17-7-2026 | [count the sub arrays with xor k](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/66_count_the_sub_arrays_with_xor_k.cpp) | self pratice | medium | Prefix XOR + Hash Map — track frequency of each prefix XOR seen so far, check if (currentXOR ^ k) has occurred before, add its frequency to count, O(n) time O(n) space | 03-Arrays/66_count_the_sub_arrays_with_xor_k.cpp |   
 ---
 
 ## 💻 Tech Stack
