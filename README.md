@@ -11,9 +11,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 📊 Current Progress
-- **Total Problems Solved:** 61
+- **Total Problems Solved:** 74
 - **Current Streak:** 0 days
-- **Current Step:** Step 3 - Learn the Arrays
+- **Current Step:** Step 4 - Learn the Binary Search
 - **Primary Resource:** [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 ---
@@ -119,6 +119,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 71 | 18-7-2026 | [gcd of array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/71_gcd_of_array.cpp) | Leetcode | easy | Find min and max of the array in a single pass, then compute their GCD using the Euclidean algorithm, O(n) time O(1) space | 03-Arrays/71_gcd_of_array.cpp |   
 | 72 | 18-7-2026 | [count inversions in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/72_count_inversions_in_array.cpp) | self pratice | medium | Modified Merge Sort — count inversions during merge step, when right-half element taken before left exhausted, it's inverted with all remaining left elements, O(n log n) time O(n) space | 03-Arrays/72_count_inversion_in_array.cpp |   
 | 73 | 19-7-2026 | [count reverse pairs in array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/73_reverse_pairs.cpp) | Leetcode | hard | Modified Merge Sort — before merging, count pairs where arr[i] > 2*arr[j] using a monotonically advancing pointer (reset before merge phase), O(n log n) time O(n) space | 03-Arrays/73_reverse_pairs.cpp |   
+| 74 | 19-7-2026 | [maximum product sub array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/03-Arrays/74_maximum_product_sub_array.cpp) | Leetcode | medium | Prefix and Suffix Product — track running product from both ends, reset to 1 whenever running product hits 0, track max seen, O(n) time O(1) space | 03-Arrays/74_maximum_product_sub_array.cpp |   
 ---
 
 ## 💻 Tech Stack
