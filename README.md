@@ -11,7 +11,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 📊 Current Progress
-- **Total Problems Solved:** 74
+- **Total Problems Solved:** 78
 - **Current Streak:** 0 days
 - **Current Step:** Step 4 - Learn the Binary Search
 - **Primary Resource:** [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
