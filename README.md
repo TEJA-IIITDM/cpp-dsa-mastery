@@ -134,6 +134,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 86 | 21-7-2026 | [single element in sorted array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/86_single_element_in_sorted_array.cpp) | Leetcode | medium | Modified Binary Search — pairs align at (even,odd) before single element, shift to (odd,even) after, search for where pattern breaks, edges handled separately to avoid out-of-bounds, O(log n) time O(1) space | 04-Binary-search/86_single_element_in_sorted_array.cpp |  
 | 87 | 22-7-2026 | [find peak element](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/87_find_peak_element.cpp) | Leetcode | medium | Binary Search on Slope — compare mid with mid+1 to shrink search space toward peak, O(log n) time O(1) space | 04-Binary-search/87_find_peak_element.cpp | 
 | 88 | 22-7-2026 | [sqrt(x)](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/88_square_root_of_x.cpp) | Leetcode | easy | Binary Search — search up to x/2, track largest mid where mid^2 <= x, O(log x) time O(1) space | 04-Binary-search/88_square_root_of_x.cpp |   
+| 89 | 22-7-2026 | [nth root of number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/89_nth_root_of_number.cpp) | self pratice | medium | Binary Search — search answer space [1, m] with safe power checking loop, O(n log m) time O(1) space | 04-Binary-search/89_nth_root_of_number.cpp |   
 ---
 
 ## 💻 Tech Stack
