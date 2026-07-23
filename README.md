@@ -136,6 +136,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 88 | 22-7-2026 | [sqrt(x)](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/88_square_root_of_x.cpp) | Leetcode | easy | Binary Search — search up to x/2, track largest mid where mid^2 <= x, O(log x) time O(1) space | 04-Binary-search/88_square_root_of_x.cpp |   
 | 89 | 22-7-2026 | [nth root of number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/89_nth_root_of_number.cpp) | self pratice | medium | Binary Search — search answer space [1, m] with safe power checking loop, O(n log m) time O(1) space | 04-Binary-search/89_nth_root_of_number.cpp |   
 | 90 | 23-7-2026 | [koko eating bananas](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/90_koko_eating_bananas.cpp) | Leetcode | medium | Binary Search on Answer — binary search over possible eating speeds k, check if hours needed fits within h using ceiling division, O(n log(max(piles))) time O(1) space | 04-Binary-search/90_koko_eating_bananas.cpp |   
+| 91 | 23-7-2026 | [min days to make m bouquets](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/91_min_days_to_make_m_bouquets.cpp) | Leetcode | medium | Binary Search on Answer — binary search over possible days, check if at least m bouquets (k adjacent bloomed flowers each) can be made by that day, O(n log(max(bloomDay))) time O(1) space | 04-Binary-search/91_min_days_to_make_m_bouquets.cpp |   
 ---
 
 ## 💻 Tech Stack
