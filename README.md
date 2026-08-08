@@ -151,6 +151,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 103 | 8-8-2026 | [search in 2d matrix](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/103_search_in_2d_matrix.cpp) | Leetcode | medium | Single Binary Search treating matrix as flattened 1D array, convert index via division/modulo, O(log(m*n)) time O(1) space | 04-Binary-search/103_search_in_2d_matrix.cpp |  
 | 104 | 8-8-2026 | [search in 2d matrix II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/104_search_in_2d_matrix_II.cpp) | Leetcode | medium | Staircase Search — start at top-right, decrement col if element > target else increment row, O(m + n) time O(1) space | 04-Binary-search/104_search_in_2d_matrix_II.cpp|   
 | 105 | 8-8-2026 | [find peak element II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/105_find_peak_element_II.cpp) | Leetcode | hard | Binary Search on Columns — find max row per candidate column, check left/right neighbors to decide direction, O(numRows * log(numCols)) time O(1) space | 04-Binary-search/105_find_peak_element_II.cpp|   
+| 106 | 8-8-2026 | [median in row sorted matrix](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/04-Binary-Search/106_median_in_row_sorted_matrix.cpp) | self pratice | hard | Binary Search on Answer — count elements <= mid across all rows using upper_bound, find smallest value where count reaches (n*m)/2+1, O(n log m log(max-min)) time O(1) space | 04-Binary-search/106_median_in_row_sorted_matrix.cpp|   
 ---
 
 ## 💻 Tech Stack
