@@ -9,7 +9,8 @@
 */
 #include<bits/stdc++.h>
 using namespace std;
-int main(){
+int main(){ 
+  
   string s="anagram";
   string t="nagaram";
   if(s.size()!=t.size()) return cout<<"false",0;
