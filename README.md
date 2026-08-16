@@ -11,9 +11,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 📊 Current Progress
-- **Total Problems Solved:** 115
+- **Total Problems Solved:** 121
 - **Current Streak:** 0 days
-- **Current Step:** Step 4 - Learn the Strings Basic
+- **Current Step:** Step 4 - Learning LinkedList
 - **Primary Resource:** [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 ---
@@ -166,6 +166,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 118 | 16-8-2026 | [count substrings with k distinict characters](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/118_count_substrings_with_k_distinict_characters.cpp) | self pratice | hard | Sliding Window — exactly K = (at most K) - (at most K-1), count using expanding/shrinking window, O(n) time O(k) space | 05-Strings-Basic/118_count_substrings_with_k_distinict_characters.cpp| 
 | 119 | 17-8-2026 | [longest palindrome substring](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/119_longest_palindrome_substring.cpp) | Leetcode | medium | Expand Around Center — expand outward for odd-length (single center) and even-length (gap center) palindromes at each index, track longest, O(n^2) time O(1) extra space | 05-Strings-Basic/119_longest_palindrome_substring.cpp| 
 | 120 | 17-8-2026 | [sum of beauty of all substrings](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/120_sum_of_beauty_of_all_substrings.cpp) | Leetcode | medium | Brute Force with Running Frequency Count — extend substring maintaining frequency array, compute (max freq - min freq) at each step, sum across all substrings, O(26*n^2) time O(26) space | 05-Strings-Basic/120_sum_of_beauty_of_all_substrings.cpp| 
+| 121 | 17-8-2026 | [reverse every word in string](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/121_reverse_every_word_in_string.cpp) | Leetcode | easy | Reverse whole string first, then read words back in reverse order via stringstream to restore original word order, O(n) time O(n) space | 05-Strings-Basic/121_reverse_every_word_in_string.cpp| 
 ---
 
 ## 💻 Tech Stack
