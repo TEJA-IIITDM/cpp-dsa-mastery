@@ -162,6 +162,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 114 | 15-8-2026 | [sort characters by frequency](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/114_sort_characters_by_frequency.cpp) | leetcode | medium | Hash Map + Sort — count character frequencies, sort (char,count) pairs by count descending, build result by repeating each character, O(n + k log k) time O(n) space | 05-Strings-Basic/114_sort_characters_by_frequency.cpp| 
 | 115 | 15-8-2026 | [maxmium depth parenthesis](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/115_maxmium_depth_parenthesis.cpp) | leetcode | easy | Single Pass Counter — maintain current depth and track max depth, O(n) time O(1) space | 05-Strings-Basic/115_maxmium_depth_parenthesis.cpp| 
 | 116 | 15-8-2026 | [roman to integer](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/116_roman_to_integer.cpp) | leetcode | easy | Single Pass Lookup — subtract current if less than next, else add, O(n) time O(1) space61_roman_to_integer.cpp | 05-Strings-Basic/116_roman_to_integer.cpp| 
+| 117 | 16-8-2026 | [string to integer](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/117_string_to_integer.cpp) | leetcode | medium | Sequential Parsing — skip spaces, parse sign, convert digits with INT_MIN/INT_MAX overflow clamping, O(n) time O(1) space	6 | 05-Strings-Basic/117_string_to_integer.cpp| 
 ---
 
 ## 💻 Tech Stack
