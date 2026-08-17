@@ -168,6 +168,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 120 | 17-8-2026 | [sum of beauty of all substrings](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/120_sum_of_beauty_of_all_substrings.cpp) | Leetcode | medium | Brute Force with Running Frequency Count — extend substring maintaining frequency array, compute (max freq - min freq) at each step, sum across all substrings, O(26*n^2) time O(26) space | 05-Strings-Basic/120_sum_of_beauty_of_all_substrings.cpp| 
 | 121 | 17-8-2026 | [reverse every word in string](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/121_reverse_every_word_in_string.cpp) | Leetcode | easy | Reverse whole string first, then read words back in reverse order via stringstream to restore original word order, O(n) time O(n) space | 05-Strings-Basic/121_reverse_every_word_in_string.cpp| 
 | 122 | 17-8-2026 | [insert node at head](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/122_insert_node_at_head.cpp) | self pratice | easy | Pass-by-Reference Head Update — point new node to head and reset head, O(1) time O(1) space | 06-LinkedList/122_insert_node_at_head.cpp| 
+| 123 | 17-8-2026 | [delete node at end](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/123_delete_node_at_end.cpp) | self pratice | easy | Second-Last Pointer Traversal — handle 0/1 node edge cases, delete tail and update pointer, O(n) time O(1) space | 06-LinkedList/123_delete_node_at_end.cpp| 
 ---
 
 ## 💻 Tech Stack
