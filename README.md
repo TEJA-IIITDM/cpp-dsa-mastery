@@ -173,6 +173,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 125 | 17-8-2026 | [length of linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/125_length_of_linkedlist.cpp) | self pratice | easy | Iterative Traversal — traverse list and increment count until nullptr, O(n) time O(1) space | 06-LinkedList/125_length_of_linkedlist.cpp| 
 | 126 | 17-8-2026 | [search in linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/126_search_in_linkedlist.cpp) | self pratice | easy | Linear Traversal — scan list sequentially for target value, return true if found else false, O(n) time O(1) space | 06-LinkedList/126_search_in_linkedlist.cpp| 
 | 127 | 17-8-2026 | [double linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/127_double_linkedlist.cpp) | self pratice | easy | Node Structure — construct DLL node with data, next, and prev pointers, O(1) time O(1) space | 06-LinkedList/127_double_linkedlist.cpp| 
+| 128 | 17-8-2026 | [insert at end in DLL](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/128_insert_at_end_in_DLL.cpp) | self pratice | easy | Tail Pointer Update — attach new node directly after tail and update tail pointer in O(1) time, O(1) space | 06-LinkedList/128_insert_at_end_in_DLL.cpp| 
 ---
 
 ## 💻 Tech Stack
