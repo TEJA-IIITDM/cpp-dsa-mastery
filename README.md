@@ -169,6 +169,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 121 | 17-8-2026 | [reverse every word in string](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/05-Strings-Basic/121_reverse_every_word_in_string.cpp) | Leetcode | easy | Reverse whole string first, then read words back in reverse order via stringstream to restore original word order, O(n) time O(n) space | 05-Strings-Basic/121_reverse_every_word_in_string.cpp| 
 | 122 | 17-8-2026 | [insert node at head](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/122_insert_node_at_head.cpp) | self pratice | easy | Pass-by-Reference Head Update — point new node to head and reset head, O(1) time O(1) space | 06-LinkedList/122_insert_node_at_head.cpp| 
 | 123 | 17-8-2026 | [delete node at end](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/123_delete_node_at_end.cpp) | self pratice | easy | Second-Last Pointer Traversal — handle 0/1 node edge cases, delete tail and update pointer, O(n) time O(1) space | 06-LinkedList/123_delete_node_at_end.cpp| 
+| 124 | 17-8-2026 | [delete node in linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/124_delete_node_in_linkedlist.cpp) | Leetcode | medium | Copy and Bypass — replace node data with next node's data, delete next node, O(1) time O(1) space | 06-LinkedList/123_delete_node_in_linkedlist.cpp| 
 ---
 
 ## 💻 Tech Stack
