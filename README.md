@@ -177,6 +177,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 129 | 17-8-2026 | [delete at end in DLL](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/129_delete_at_end_in_DLL.cpp) | self pratice | easy | Tail Pointer Unlink — shift tail to tail->prev and free old tail memory in O(1) time, O(1) space | 06-LinkedList/129_delete_at_end_in_DLL.cpp| 
 | 130 | 18-8-2026 | [reverse a DLL](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/130_reverse_a_DLL.cpp) | self pratice | easy | Pointer Swapping — swap next and prev pointers iteratively and update head/tail, O(n) time O(1) space | 06-LinkedList/130_reverse_a_DLL.cpp| 
 | 131 | 18-8-2026 | [middle node in linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/131_middle_node_in_linkedlist.cpp) | Leetcode | easy | Fast & Slow Pointers — advance slow by 1 and fast by 2 steps to find middle node, O(n) time O(1) space | 06-LinkedList/131_middle_node_in_linkedlist.cpp| 
+| 132 | 18-8-2026 | [reverse a linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/132_reverse_a_linkedlist.cpp) | Leetcode | easy | Iterative 3-Pointer — flip next pointers using prev, curr, and next pointers, O(n) time O(1) space | 06-LinkedList/132_reverse_a_linkedlist.cpp| 
 ---
 
 ## 💻 Tech Stack
