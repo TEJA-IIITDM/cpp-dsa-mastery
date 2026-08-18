@@ -180,6 +180,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 132 | 18-8-2026 | [reverse a linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/132_reverse_a_linkedlist.cpp) | Leetcode | easy | Iterative 3-Pointer — flip next pointers using prev, curr, and next pointers, O(n) time O(1) space | 06-LinkedList/132_reverse_a_linkedlist.cpp| 
 | 133 | 18-8-2026 | [linkedlist cycle](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/133_linkedlist_cycle.cpp) | Leetcode | easy | Floyd's Cycle Finding — move slow by 1 step and fast by 2 steps until they meet or reach null, O(n) time O(1) space | 06-LinkedList/133_linkedlist_cycle.cpp| 
 | 134 | 18-8-2026 | [linkedlist cycle II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/134_linkedlist_cycle_II.cpp) | Leetcode | medium | Floyd's Cycle II — detect meeting point, reset slow to head, advance both 1 step to find cycle entry, O(n) time O(1) space | 06-LinkedList/134_linkedlist_cycle_II.cpp| 
+| 135 | 18-8-2026 | [lenght of cycle](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/135_lenght_of_cycle.cpp) | self pratice | easy | Fast & Slow Pointers — detect collision, then iterate through loop to count total nodes, O(n) time O(1) space | 06-LinkedList/135_lenght_of_cycle.cpp| 
 ---
 
 ## 💻 Tech Stack
