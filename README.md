@@ -184,6 +184,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 136 | 19-8-2026 | [palindrome linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/136_palindrome_linkedlist.cpp) | Leetcode | easy | Fast/Slow + In-Place Reversal — find middle, reverse second half, and compare values sequentially, O(n) time O(1) space | 06-LinkedList/136_palindrome_linkedlist.cpp| 
 | 137 | 20-8-2026 | [even odd nodes in linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/137_even_odd_nodes_in_linkedlist.cpp) | Leetcode | medium | Two-Pointer Link Rearrangement — group odd indices together followed by even indices, O(n) time O(1) space | 06-LinkedList/137_even_odd_nodes_in_linkedlist.cpp| 
 | 138 | 20-8-2026 | [remove nth node from end](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/138_remove_nth_node_from_end.cpp) | Leetcode | medium | Two Pointers (Fast/Slow) + Dummy — advance fast by N+1, move slow to predecessor, unlink node, O(n) time O(1) space | 06-LinkedList/138_remove_nth_node_from_end.cpp| 
+| 139 | 20-8-2026 | [delete middle node](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/139_delete_middle_node.cpp) | Leetcode | medium | Fast & Slow Pointers — advance fast 2 steps ahead to locate middle's predecessor, unlink and free middle, O(n) time O(1) space	82_delete_middle_node | 06-LinkedList/139_delete_middle_node.cpp| 
 ---
 
 ## 💻 Tech Stack
