@@ -183,6 +183,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 135 | 18-8-2026 | [length of cycle](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/135_length_of_cycle.cpp) | self pratice | easy | Fast & Slow Pointers — detect collision, then iterate through loop to count total nodes, O(n) time O(1) space | 06-LinkedList/135_length_of_cycle.cpp| 
 | 136 | 19-8-2026 | [palindrome linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/136_palindrome_linkedlist.cpp) | Leetcode | easy | Fast/Slow + In-Place Reversal — find middle, reverse second half, and compare values sequentially, O(n) time O(1) space | 06-LinkedList/136_palindrome_linkedlist.cpp| 
 | 137 | 20-8-2026 | [even odd nodes in linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/137_even_odd_nodes_in_linkedlist.cpp) | Leetcode | medium | Two-Pointer Link Rearrangement — group odd indices together followed by even indices, O(n) time O(1) space | 06-LinkedList/137_even_odd_nodes_in_linkedlist.cpp| 
+| 138 | 20-8-2026 | [remove nth node from end](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/138_remove_nth_node_from_end.cpp) | Leetcode | medium | Two Pointers (Fast/Slow) + Dummy — advance fast by N+1, move slow to predecessor, unlink node, O(n) time O(1) space | 06-LinkedList/138_remove_nth_node_from_end.cpp| 
 ---
 
 ## 💻 Tech Stack
