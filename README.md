@@ -182,6 +182,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 134 | 18-8-2026 | [linkedlist cycle II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/134_linkedlist_cycle_II.cpp) | Leetcode | medium | Floyd's Cycle II — detect meeting point, reset slow to head, advance both 1 step to find cycle entry, O(n) time O(1) space | 06-LinkedList/134_linkedlist_cycle_II.cpp| 
 | 135 | 18-8-2026 | [length of cycle](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/135_length_of_cycle.cpp) | self pratice | easy | Fast & Slow Pointers — detect collision, then iterate through loop to count total nodes, O(n) time O(1) space | 06-LinkedList/135_length_of_cycle.cpp| 
 | 136 | 19-8-2026 | [palindrome linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/136_palindrome_linkedlist.cpp) | Leetcode | easy | Fast/Slow + In-Place Reversal — find middle, reverse second half, and compare values sequentially, O(n) time O(1) space | 06-LinkedList/136_palindrome_linkedlist.cpp| 
+| 137 | 20-8-2026 | [even odd nodes in linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/137_even_odd_nodes_in_linkedlist.cpp) | Leetcode | medium | Two-Pointer Link Rearrangement — group odd indices together followed by even indices, O(n) time O(1) space | 06-LinkedList/137_even_odd_nodes_in_linkedlist.cpp| 
 ---
 
 ## 💻 Tech Stack
