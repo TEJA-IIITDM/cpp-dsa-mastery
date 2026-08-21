@@ -186,6 +186,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 138 | 20-8-2026 | [remove nth node from end](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/138_remove_nth_node_from_end.cpp) | Leetcode | medium | Two Pointers (Fast/Slow) + Dummy — advance fast by N+1, move slow to predecessor, unlink node, O(n) time O(1) space | 06-LinkedList/138_remove_nth_node_from_end.cpp| 
 | 139 | 20-8-2026 | [delete middle node](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/139_delete_middle_node.cpp) | Leetcode | medium | Fast & Slow Pointers — advance fast 2 steps ahead to locate middle's predecessor, unlink and free middle, O(n) time O(1) space	82_delete_middle_node | 06-LinkedList/139_delete_middle_node.cpp| 
 | 140 | 21-8-2026 | [sort list](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/140_sort_list.cpp) | Leetcode | medium | Merge Sort — bisect list with fast/slow pointers, recursively sort halves, merge two sorted chains, O(n log n) time | 06-LinkedList/140_sort_list.cpp| 
+| 141 | 21-8-2026 | [sort 0s 1s 2s in list](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/141_sort_0s_1s_2s_in_list.cpp) | self pratice | medium | 3-Dummy Node Partitioning — partition nodes into 0, 1, and 2 sublists and reconnect pointers in-place, O(n) time O(1) space | 06-LinkedList/141_sort_0s_1s_2s_in_list.cpp| 
 ---
 
 ## 💻 Tech Stack
