@@ -189,6 +189,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 141 | 21-8-2026 | [sort 0s 1s 2s in list](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/141_sort_0s_1s_2s_in_list.cpp) | self pratice | medium | 3-Dummy Node Partitioning — partition nodes into 0, 1, and 2 sublists and reconnect pointers in-place, O(n) time O(1) space | 06-LinkedList/141_sort_0s_1s_2s_in_list.cpp| 
 | 142 | 22-8-2026 | [intersection of two linkedlists](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/142_intersection_of_two_linkedlists.cpp) | Leetcode | easy | Two Pointers — swap heads upon reaching end so both traverse equal distance L1+L2 and align at intersection, O(m+n) time O(1) space | 06-LinkedList/142_intersection_of_two_linkedlists.cpp| 
 | 143 | 22-8-2026 | [add one to list](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/143_add_one_to_list.cpp) | self pratice | medium | Reverse & Traverse — reverse list, add 1 with carry propagation iteratively, reverse back to restore order, O(n) time O(1) space | 06-LinkedList/143_add_one_to_list.cpp| 
+| 144 | 22-8-2026 | [add two lists](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/144_add_two_lists.cpp) | Leetcode | medium | Elementary Addition — traverse both lists, maintain sum/carry, append nodes in O(1) using tail pointer, O(max(m,n)) time | 06-LinkedList/144_add_two_lists.cpp| 
 ---
 
 ## 💻 Tech Stack
