@@ -192,6 +192,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 144 | 22-8-2026 | [add two lists](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/144_add_two_lists.cpp) | Leetcode | medium | Elementary Addition — traverse both lists, maintain sum/carry, append nodes in O(1) using tail pointer, O(max(m,n)) time | 06-LinkedList/144_add_two_lists.cpp| 
 | 145 | 22-8-2026 | [delete occurence in DLL](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/145_delete_occurence_in_DLL.cpp) | self pratice | medium | Single Pass Pointer Rewiring — update adjacent prev/next pointers, safely handle head deletions and deallocations, O(n) time O(1) space | 06-LinkedList/145_delete_occurence_in_DLL.cpp| 
 | 146 | 23-8-2026 | [check pairs to given sum](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/146_check_pairs_to_given_sum.cpp) | self pratice | easy | Two Pointers — left at head and right at tail, adjust inward until left and right meet/cross, O(n) time O(1) space | 06-LinkedList/146_check_pairs_to_given_sum.cpp| 
+| 147 | 23-8-2026 | [remove duplicates in DLL](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/147_remove_duplicates_in_DLL.cpp) | self pratice | easy | Single Pass In-Place Pointer Rewiring — compare adjacent values, update prev/next links, free duplicates without advancing temp prematurely, O(n) time O(1) space | 06-LinkedList/147_remove_duplicates_in_DLL.cpp| 
 ---
 
 ## 💻 Tech Stack
