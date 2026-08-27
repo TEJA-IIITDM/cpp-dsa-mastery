@@ -11,9 +11,9 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 ---
 
 ## 📊 Current Progress
-- **Total Problems Solved:** 121
+- **Total Problems Solved:** 151
 - **Current Streak:** 0 days
-- **Current Step:** Step 4 - Learning LinkedList
+- **Current Step:** Step 7 - Learning Recursion
 - **Primary Resource:** [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 ---
@@ -195,7 +195,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 147 | 23-8-2026 | [remove duplicates in DLL](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/147_remove_duplicates_in_DLL.cpp) | self pratice | easy | Single Pass In-Place Pointer Rewiring — compare adjacent values, update prev/next links, free duplicates without advancing temp prematurely, O(n) time O(1) space | 06-LinkedList/147_remove_duplicates_in_DLL.cpp| 
 | 148 | 23-8-2026 | [rotate list](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/148_rotate_list.cpp) | Leetcode | medium | Ring Buffer — connect tail to head, advance length - (k % length) steps, break ring to get new head, O(n) time O(1) space | 06-LinkedList/148_rotate_list.cpp| 
 | 149 | 27-8-2026 | [reverse list in groups](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/149_reverse_list_in_groups.cpp) | Leetcode | hard | Group Iterative Reversal — locate k-th node, reverse k elements in-place, link previous tail to new group head, O(n) time O(1) space | 06-LinkedList/149_reverse_list_in_groups.cpp| 
-| 150- | 27-8-2026 | [flattening linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/150_flattening_linkedlist.cpp) | self pratice | medium | Divide & Conquer — flatten rightwards sublists recursively, merge sorted child chains pairwise, O(N*M) time O(N) space | 06-LinkedList/150_flattening_linkedlist.cpp| 
+| 150 | 27-8-2026 | [flattening linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/150_flattening_linkedlist.cpp) | self pratice | medium | Divide & Conquer — flatten rightwards sublists recursively, merge sorted child chains pairwise, O(N*M) time O(N) space | 06-LinkedList/150_flattening_linkedlist.cpp| 
+| 151 | 27-8-2026 | [clone linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/151_clone_linkedlist.cpp) | Leetcode | medium | Interleaving Method — create inline cloned nodes, assign random via original->random->next, decouple chains in O(n) time O(1) space | 06-LinkedList/151_clone_linkedlist.cpp| 
 ---
 
 ## 💻 Tech Stack
