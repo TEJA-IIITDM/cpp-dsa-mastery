@@ -198,6 +198,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 150 | 27-8-2026 | [flattening linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/150_flattening_linkedlist.cpp) | self pratice | medium | Divide & Conquer — flatten rightwards sublists recursively, merge sorted child chains pairwise, O(N*M) time O(N) space | 06-LinkedList/150_flattening_linkedlist.cpp| 
 | 151 | 27-8-2026 | [clone linkedlist](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/06-LinkedList/151_clone_linkedlist.cpp) | Leetcode | medium | Interleaving Method — create inline cloned nodes, assign random via original->random->next, decouple chains in O(n) time O(1) space | 06-LinkedList/151_clone_linkedlist.cpp| 
 | 152 | 28-8-2026 | [string atoi recursion](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/152_string_atoi_recursion.cpp) | Leetcode | medium | Tail Recursion — iterate past whitespace/sign, recursively process digits while checking overflow limits, O(N) time O(N) space | 07-Recursion/152_string_atoi_recursion.cpp| 
+| 153 | 28-8-2026 | [power(x,n)](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/153_power(x,n).cpp) | Leetcode | medium | Binary Exponentiation — divide power by 2 recursively, cast n to long long for INT_MIN safety, O(log N) time O(log N) space | 07-Recursion/153_power(x,n).cpp| 
 ---
 
 ## 💻 Tech Stack
