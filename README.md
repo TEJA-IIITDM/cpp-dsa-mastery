@@ -201,6 +201,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 153 | 28-8-2026 | [power(x,n)](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/153_power(x,n).cpp) | Leetcode | medium | Binary Exponentiation — divide power by 2 recursively, cast n to long long for INT_MIN safety, O(log N) time O(log N) space | 07-Recursion/153_power(x,n).cpp| 
 | 154 | 2-9-2026 | [count good numbers](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/154_count_good_numbers.cpp) | Leetcode | medium | Modular Binary Exponentiation — calculate 5^(even) * 4^(odd) mod 10^9+7 in O(log n) time O(1) space | 07-Recursion/154_count_good_numbers.cpp| 
 | 155 | 2-9-2026 | [sort stack](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/155_sort_stack.cpp) | self pratice | medium | Dual Recursion — unwind stack, sort sub-stack recursively, place back using sorted insertion in O(N^2) time O(N) space | 07-Recursion/155_sort_stack.cpp| 
+| 156 | 2-9-2026 | [reverse stack](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/156_reverse_stack.cpp) | self pratice | medium | Dual Recursion — unwind stack, reverse sub-stack, insert popped items at bottom via helper in O(N^2) time O(N) space | 07-Recursion/156_reverse_stack.cpp| 
 ---
 
 ## 💻 Tech Stack
