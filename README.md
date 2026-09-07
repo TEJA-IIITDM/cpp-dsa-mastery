@@ -205,6 +205,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 157 | 3-9-2026 | [generate all binary strings](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/157_generate_all_binary_strings.cpp) | self pratice | medium | Backtracking / Pruning — append '0' freely, prune '1' branch if preceding char is '1' in O(1.618^N) time O(N) space | 07-Recursion/157_generate_all_binary_strings.cpp| 
 | 158 | 3-9-2026 | [generate parenthesis](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/158_generate_parenthesis.cpp) | Leetcode | medium | Backtracking — prune invalid branches using open < n and close < open bounds in O(4^N / sqrt(N)) time O(N) space | 07-Recursion/158_generate_parenthesis.cpp| 
 | 159 | 5-9-2026 | [generate all subsequences](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/159_generate_all_subsequences.cpp) | Leetcode | medium | Pick-and-Don't-Pick Backtracking — branch for inclusion/exclusion at each index in O(2^N * N) time O(N) space | 07-Recursion/159_generate_all_subsequences.cpp| 
+| 160 | 7-9-2026 | [count subsequences with sum k](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/160_count_subsequences_with_sum_k.cpp) | self pratice | medium | Pick-and-Don't-Pick Recursion — branch into include/exclude choices and sum up base case returns in O(2^N) time O(N) space | 07-Recursion/160_count_subsequences_with_sum_k.cpp| 
 ---
 
 ## 💻 Tech Stack
