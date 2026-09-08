@@ -209,6 +209,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 161 | 7-9-2026 | [check if subsequence with sum ](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/161_check_if_subsequence_with_sum.cpp) | self pratice | medium | Pick-and-Don't-Pick Backtracking with short-circuiting in O(2^N) time O(N) space | 07-Recursion/161_check_subsequence_with_sum.cpp| 
 | 162 | 8-9-2026 | [combination sum ](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/162_combination_sum.cpp) | Leetcode | medium | Pick-and-Don't-Pick Backtracking — pass 'index' on pick branch for infinite element reuse in O(2^T) time O(T) space | 07-Recursion/162_combination_sum.cpp| 
 | 163 | 8-9-2026 | [combination sum II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/163_combination_sum_II.cpp) | Leetcode | medium | Loop-Based Backtracking — sort array and prune duplicate branches using i > index check in O(2^N) time O(N) space | 07-Recursion/163_combination_sum_II.cpp| 
+| 164 | 8-9-2026 | [subset sum](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/163_subset_sum.cpp) | self pratice | medium | Pick-and-Don't-Pick Recursion — accumulate sums and sort output in O(2^N log(2^N)) time O(N) space | 07-Recursion/164_subset_sum.cpp| 
 ---
 
 ## 💻 Tech Stack
