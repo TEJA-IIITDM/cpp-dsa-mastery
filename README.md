@@ -211,6 +211,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 163 | 8-9-2026 | [combination sum II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/163_combination_sum_II.cpp) | Leetcode | medium | Loop-Based Backtracking — sort array and prune duplicate branches using i > index check in O(2^N) time O(N) space | 07-Recursion/163_combination_sum_II.cpp| 
 | 164 | 8-9-2026 | [subset sum](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/163_subset_sum.cpp) | self pratice | medium | Pick-and-Don't-Pick Recursion — accumulate sums and sort output in O(2^N log(2^N)) time O(N) space | 07-Recursion/164_subset_sum.cpp| 
 | 165 | 10-9-2026 | [subset II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/165_subset_II.cpp) | Leetcode | medium | Loop-Based Backtracking — sort array and prune duplicate branches using i > index && arr[i] == arr[i-1] in O(2^N * N) time O(N) space | 07-Recursion/165_subset_II.cpp| 
+| 166 | 10-9-2026 | [combination sum III](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/166_combination_sum_III.cpp) | Leetcode | medium | Loop-Based Backtracking — explore combinations of k digits from 1..9 in O(C(9, k)) time O(k) space | 07-Recursion/166_combination_sum_III.cpp| 
 ---
 
 ## 💻 Tech Stack
