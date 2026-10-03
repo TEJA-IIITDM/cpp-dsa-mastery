@@ -216,6 +216,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 168 | 13-9-2026 | [palindrome partitions](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/168_palindrome_partitions.cpp) | Leetcode | medium | Loop-Based Backtracking — recursive prefix splitting with i+1 recursion step in O(2^N * N) time O(N) space | 07-Recursion/168_palindrome_partitions.cpp| 
 | 176 | 3-10-2026 | [checking ith bit is set](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/176_checking_ith_bit_is_set.cpp) | self pratice | easy | Bit Manipulation — bitwise AND with shifted mask in O(1) time O(1) space | 08-Bit-Manipulation/176_checling_ith_bit_is_set.cpp| 
 | 177 | 3-10-2026 | [check odd](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/177_check_odd.cpp) | self pratice | easy | Bit Manipulation — bitwise AND with 1 (n & 1) to inspect LSB in O(1) time O(1) space | 08-Bit-Manipulation/177_check_odd.cpp| 
+| 178 | 3-10-2026 | [check power of two](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/178_check_power_of_two.cpp) | leetcode | easy | Bit Manipulation — clear lowest set bit via n & (n - 1) in O(1) time O(1) space | 08-Bit-Manipulation/178_check_power_of_two.cpp| 
 ---
 
 ## 💻 Tech Stack
