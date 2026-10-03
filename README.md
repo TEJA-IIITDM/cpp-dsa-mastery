@@ -214,6 +214,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 166 | 10-9-2026 | [combination sum III](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/166_combination_sum_III.cpp) | Leetcode | medium | Loop-Based Backtracking — explore combinations of k digits from 1..9 in O(C(9, k)) time O(k) space | 07-Recursion/166_combination_sum_III.cpp| 
 | 167 | 11-9-2026 | [combinations of phone number](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/167_combinations_of_phone_number.cpp) | Leetcode | medium | Recursive Backtracking — digit-to-string mapping with depth-first combination tree in O(4^N * N) time O(N) space | 07-Recursion/167_combinations_of_phone_number.cpp| 
 | 168 | 13-9-2026 | [palindrome partitions](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/07-Recursion/168_palindrome_partitions.cpp) | Leetcode | medium | Loop-Based Backtracking — recursive prefix splitting with i+1 recursion step in O(2^N * N) time O(N) space | 07-Recursion/168_palindrome_partitions.cpp| 
+| 176 | 3-10-2026 | [checking ithbit is set](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/176_checking_ith_bit_is_set.cpp) | self pratice | easy | Bit Manipulation — bitwise AND with shifted mask in O(1) time O(1) space | 08-Bit-Manipulation/176_checking_ith_bit_is_set.cpp| 
 ---
 
 ## 💻 Tech Stack
