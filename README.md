@@ -218,6 +218,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 177 | 3-10-2026 | [check odd](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/177_check_odd.cpp) | self pratice | easy | Bit Manipulation — bitwise AND with 1 (n & 1) to inspect LSB in O(1) time O(1) space | 08-Bit-Manipulation/177_check_odd.cpp| 
 | 178 | 3-10-2026 | [check power of two](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/178_check_power_of_two.cpp) | Leetcode | easy | Bit Manipulation — clear lowest set bit via n & (n - 1) in O(1) time O(1) space | 08-Bit-Manipulation/178_check_power_of_two.cpp| 
 | 179 | 4-10-2026 | [count set bits](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/179_count_set_bits.cpp) | Leetcode | easy | Bit Manipulation — Brian Kernighan's n & (n - 1) bit-clearing loop in O(K) time O(1) space | 08-Bit-Manipulation/179_count_set_bits.cpp| 
+| 180 | 4-10-2026 | [set right most bit](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/180_set_right_most_bit.cpp) | self pratice | easy | Bit Manipulation — bitwise OR with (n + 1) in O(1) time O(1) space | 08-Bit-Manipulation/180_set_right_most_bit.cpp| 
 ---
 
 ## 💻 Tech Stack
