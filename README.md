@@ -220,6 +220,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 179 | 4-10-2026 | [count set bits](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/179_count_set_bits.cpp) | Leetcode | easy | Bit Manipulation — Brian Kernighan's n & (n - 1) bit-clearing loop in O(K) time O(1) space | 08-Bit-Manipulation/179_count_set_bits.cpp| 
 | 180 | 4-10-2026 | [set right most bit](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/180_set_right_most_bit.cpp) | self pratice | easy | Bit Manipulation — bitwise OR with (n + 1) in O(1) time O(1) space | 08-Bit-Manipulation/180_set_right_most_bit.cpp| 
 | 181 | 4-10-2026 | [swap numbers](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/181_swap_numbers.cpp) | self pratice | easy | Bit Manipulation — in-place XOR arithmetic swap in O(1) time O(1) space | 08-Bit-Manipulation/181_swap_numbers.cpp| 
+| 182 | 7-10-2026 | [divide two integers](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/182_divide_two_integers.cpp) | Leetcode | medium | Bit Manipulation — exponential subtraction via bit shifts with overflow guards in O(log^2 N) time O(1) space | 08-Bit-Manipulation/182_divide_two_integers.cpp| 
 ---
 
 ## 💻 Tech Stack
