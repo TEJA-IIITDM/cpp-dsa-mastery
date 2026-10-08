@@ -222,6 +222,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 181 | 4-10-2026 | [swap numbers](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/181_swap_numbers.cpp) | self pratice | easy | Bit Manipulation — in-place XOR arithmetic swap in O(1) time O(1) space | 08-Bit-Manipulation/181_swap_numbers.cpp| 
 | 182 | 7-10-2026 | [divide two integers](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/182_divide_two_integers.cpp) | Leetcode | medium | Bit Manipulation — exponential subtraction via bit shifts with overflow guards in O(log^2 N) time O(1) space | 08-Bit-Manipulation/182_divide_two_integers.cpp| 
 | 183 | 7-10-2026 | [count flips](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/183_count_flips.cpp) | Leetcode | easy | Bit Manipulation — XOR combined with set-bit counting in O(K) time O(1) space | 08-Bit-Manipulation/183_count_flips.cpp| 
+| 184 | 8-10-2026 | [powerset](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/184_powerset.cpp) | Leetcode | medium | Bitmasking — generate all subsets by mapping binary bits to element inclusions in O(N * 2^N) time O(N * 2^N) space | 08-Bit-Manipulation/184_powerset.cpp| 
 ---
 
 ## 💻 Tech Stack
