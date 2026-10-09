@@ -225,6 +225,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 184 | 8-10-2026 | [powerset](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/184_powerset.cpp) | Leetcode | medium | Bitmasking — generate all subsets by mapping binary bits to element inclusions in O(N * 2^N) time O(N * 2^N) space | 08-Bit-Manipulation/184_powerset.cpp| 
 | 185 | 8-10-2026 | [xor in l to r](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/185_xor_in_l_to_r.cpp) | self pratice | easy | Bit Manipulation — prefix XOR property with O(1) modulo-4 sequence pattern in O(1) time O(1) space | 08-Bit-Manipulation/185_xor_in_l_to_r.cpp| 
 | 186 | 8-10-2026 | [single number III](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/186_single_number_III.cpp) | Leetcode | medium | Bitmasking — isolate rightmost differing bit (xor & -xor) to partition XOR buckets in O(N) time O(1) spac | 08-Bit-Manipulation/186_single_number_III.cpp| 
+| 187 | 9-10-2026 | [single number II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/187_single_number_II.cpp) | Leetcode | medium | Bit Counting — positional bit sums modulo 3 across 32 bit slots in O(N) time O(1) space | 08-Bit-Manipulation/187_single_number_II.cpp| 
 ---
 
 ## 💻 Tech Stack
