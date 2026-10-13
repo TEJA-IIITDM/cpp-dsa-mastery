@@ -230,6 +230,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 189 | 13-10-2026 | [assign cookies](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/189_assign_cookies.cpp) | Leetcode | easy | Greedy Two Pointers — ascending sort with dual-pointer matching in O(N log N + M log M) time O(1) space | 12_Greedy/189_assign_cookies.cpp| 
 | 190 | 13-10-2026 | [fractional knapsack](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/190_fractional_knapsack.cpp) | self pratice | medium | Greedy Strategy — sorting by value-to-weight ratio with fractional item splitting in O(N log N) time O(1) space | 12_Greedy/190_fractional_knapsack.cpp| 
 | 191 | 13-10-2026 | [coin change](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/191_coin_change.cpp) | self pratice | easy | Greedy Strategy — descending traversal picking largest available coin denomination in O(V) time O(1) space | 12_Greedy/191_coin_change.cpp| 
+| 192 | 13-10-2026 | [lemonade change](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/192_lemonade_change.cpp) | Leetcode | easy | Greedy Strategy — prioritize returning higher denomination change to preserve $5 bills in O(N) time O(1) space | 12_Greedy/192_lemonade_change.cpp| 
 ---
 
 ## 💻 Tech Stack
