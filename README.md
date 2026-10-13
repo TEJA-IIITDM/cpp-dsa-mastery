@@ -228,6 +228,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 187 | 9-10-2026 | [single number II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/187_single_number_II.cpp) | Leetcode | medium | Bit Counting — positional bit sums modulo 3 across 32 bit slots in O(N) time O(1) space | 08-Bit-Manipulation/187_single_number_II.cpp| 
 | 188 | 12-10-2026 | [prime factors](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/08-Bit-Manipulation/188_prime_factors.cpp) | self pratice | easy | Trial Division — factor extraction up to sqrt(N) in O(sqrt(N)) time O(log N) space | 08-Bit-Manipulation/188_prime_numbers.cpp| 
 | 189 | 13-10-2026 | [assign cookies](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/189_assign_cookies.cpp) | Leetcode | easy | Greedy Two Pointers — ascending sort with dual-pointer matching in O(N log N + M log M) time O(1) space | 12_Greedy/189_assign_cookies.cpp| 
+| 190 | 13-10-2026 | [fractional knapsack](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/190_fractional_knapsack.cpp) | self pratice | medium | Greedy Strategy — sorting by value-to-weight ratio with fractional item splitting in O(N log N) time O(1) space | 12_Greedy/190_fractional_knapsack.cpp| 
 ---
 
 ## 💻 Tech Stack
