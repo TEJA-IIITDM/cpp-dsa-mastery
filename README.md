@@ -232,6 +232,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 191 | 13-10-2026 | [coin change](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/191_coin_change.cpp) | self pratice | easy | Greedy Strategy — descending traversal picking largest available coin denomination in O(V) time O(1) space | 12_Greedy/191_coin_change.cpp| 
 | 192 | 13-10-2026 | [lemonade change](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/192_lemonade_change.cpp) | Leetcode | easy | Greedy Strategy — prioritize returning higher denomination change to preserve $5 bills in O(N) time O(1) space | 12_Greedy/192_lemonade_change.cpp| 
 | 193 | 18-10-2026 | [valid parenthesis string](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/193_valid_parenthesis_string.cpp) | Leetcode | medium | Greedy Range Tracking — tracking [minOpen, maxOpen] bounds for wildcard balance in O(N) time O(1) space | 12_Greedy/193_valid_parenthesis_string.cpp| 
+| 194 | 18-10-2026 | [n meetings in one room](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/194_n_meetings_in_one_room.cpp) | self pratice | easy | Greedy Interval Scheduling — ascending sort by end time in O(N log N) time O(N) space | 12_Greedy/194_n_meetings_in_one_room.cpp| 
 ---
 
 ## 💻 Tech Stack
