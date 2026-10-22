@@ -235,6 +235,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 194 | 18-10-2026 | [n meetings in one room](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/194_n_meetings_in_one_room.cpp) | self pratice | easy | Greedy Interval Scheduling — ascending sort by end time in O(N log N) time O(N) space | 12_Greedy/194_n_meetings_in_one_room.cpp| 
 | 195 | 19-10-2026 | [jump game](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/195_jump_game.cpp) | Leetcode | medium | Greedy Reach Tracking — updating maxReach continuously in O(N) time O(1) space | 12_Greedy/195_jump_game.cpp| 
 | 196 | 19-10-2026 | [jump game II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/196_jump_game_II.cpp) | Leetcode | medium | Greedy BFS Range Expansion — tracking currEnd boundary for minimal jumps in O(N) time O(1) space | 12_Greedy/196_jump_game_II.cpp| 
+| 197 | 22-10-2026 | [minimum platforms](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/197_minimum_platforms.cpp) | self pratice | medium | Greedy Two Pointers — timeline sweep across independent arrival and departure sorted arrays in O(N log N) time O(1) space | 12_Greedy/197_minimum_platforms.cpp| 
 ---
 
 ## 💻 Tech Stack
