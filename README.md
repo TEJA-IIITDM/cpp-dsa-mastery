@@ -236,6 +236,8 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 195 | 19-10-2026 | [jump game](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/195_jump_game.cpp) | Leetcode | medium | Greedy Reach Tracking — updating maxReach continuously in O(N) time O(1) space | 12_Greedy/195_jump_game.cpp| 
 | 196 | 19-10-2026 | [jump game II](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/196_jump_game_II.cpp) | Leetcode | medium | Greedy BFS Range Expansion — tracking currEnd boundary for minimal jumps in O(N) time O(1) space | 12_Greedy/196_jump_game_II.cpp| 
 | 197 | 22-10-2026 | [minimum platforms](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/197_minimum_platforms.cpp) | self pratice | medium | Greedy Two Pointers — timeline sweep across independent arrival and departure sorted arrays in O(N log N) time O(1) space | 12_Greedy/197_minimum_platforms.cpp| 
+| 198 | 23-10-2026 | [job sequencing](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/198_job_sequencing.cpp) | self pratice | medium | Greedy Sorting — descending profit sort with backwards slot search in O(N log N + N * M) time O(M) space | 12_Greedy/198_job_sequencing.cpp| 
+| 199 | 23-10-2026 | [shortest job](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/199_shortest_job.cpp) | self pratice | medium | Greedy Sorting — ascending burst time sort with prefix waiting time accumulation in O(N log N) time O(1) space | 12_Greedy/199_shortest_job.cpp| 
 ---
 
 ## 💻 Tech Stack
