@@ -241,6 +241,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 200 | 23-10-2026 | [insert interval](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/200_insert_interval.cpp) | Leetcode | medium | Three-Phase Linear Sweep — 3-stage loop traversal with correct index bounds in O(N) time O(1) space | 12_Greedy/200_insert_interval.cpp|
 | 201 | 23-10-2026 | [merge intervals](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/201_merge_intervals.cpp) | Leetcode | medium | Greedy Interval Sorting — ascending start sort with running end extension in O(N log N) time O(1) space | 12_Greedy/201_merge_intervals.cpp|
 | 202 | 23-10-2026 | [non overlap intervals](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/202_non_overlap_intervals.cpp) | Leetcode | medium | Greedy Choice — end-time ascending sort with running overlap removal count in O(N log N) time O(1) space | 12_Greedy/202_non_overlap_intervals.cpp| 
+| 203 | 28-10-2026 | [length of longest substring no duplicates](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/203_length_of_longest_substring_no_duplicates.cpp) | Leetcode | medium | Sliding Window with Hash Direct Indexing — jumping left pointer using last-seen index in O(N) time O(1) space | 10-Sliding-Window-Two-Pointer/203_length_of_longest_substring_no_duplicates.cpp| 
 ---
 
 ## 💻 Tech Stack
