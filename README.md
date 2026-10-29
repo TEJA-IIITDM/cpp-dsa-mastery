@@ -243,6 +243,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 202 | 23-10-2026 | [non overlap intervals](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/12-Greedy/202_non_overlap_intervals.cpp) | Leetcode | medium | Greedy Choice — end-time ascending sort with running overlap removal count in O(N log N) time O(1) space | 12_Greedy/202_non_overlap_intervals.cpp| 
 | 203 | 28-10-2026 | [length of longest substring no duplicates](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/203_length_of_longest_substring_no_duplicates.cpp) | Leetcode | medium | Sliding Window with Hash Direct Indexing — jumping left pointer using last-seen index in O(N) time O(1) space | 10-Sliding-Window-Two-Pointer/203_length_of_longest_substring_no_duplicates.cpp| 
 | 204 | 28-10-2026 | [max consectutive ones](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/204_max_consectutive_ones.cpp) | Leetcode | medium | Single-Pass Sliding Window — non-shrinking window optimization in O(N) time O(1) space | 10-Sliding-Window-Two-Pointer/204_max_consectutive_ones.cpp| 
+| 205 | 29-10-2026 | [fruits into basket](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/205_fruits_into_basket.cpp) | Leetcode | medium | Non-shrinking Sliding Window — tracking at most 2 distinct fruit types via hash map in O(N) time O(1) space | 10-Sliding-Window-Two-Pointer/205_fruits_into_basket.cpp| 
 ---
 
 ## 💻 Tech Stack
