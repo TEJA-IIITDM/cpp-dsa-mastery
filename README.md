@@ -246,6 +246,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 205 | 29-10-2026 | [fruits into basket](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/205_fruits_into_basket.cpp) | Leetcode | medium | Non-shrinking Sliding Window — tracking at most 2 distinct fruit types via hash map in O(N) time O(1) space | 10-Sliding-Window-Two-Pointer/205_fruits_into_basket.cpp|
 | 206 | 30-10-2026 | [binary subarrays sum](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/206_binary_subarrays_sum.cpp) | Leetcode | medium | Sliding Window Difference — Exactly(K) via AtMost(K) - AtMost(K - 1) in O(N) time O(1) space | 10-Sliding-Window-Two-Pointer/206_binary_subarrays_sum.cpp| 
 | 207 | 30-10-2026 | [substrings contain all three](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/207_substrings_contain_all_three.cpp) | Leetcode | medium | Sliding Window — counting valid suffixes via (n - right) upon meeting character threshold in O(N) time O(1) space | 10-Sliding-Window-Two-Pointer/207_substrings_contain_all_three.cpp| 
+| 208 | 30-10-2026 | [maximum card points](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/208_maximum_card_points.cpp) | Leetcode | medium | Sliding Window / Prefix-Suffix Swap — swapping k left prefix cards with right suffix cards in O(K) time O(1) space | 10-Sliding-Window-Two-Pointer/208_maximum_card_points.cpp| 
 ---
 
 ## 💻 Tech Stack
