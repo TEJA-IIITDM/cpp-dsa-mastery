@@ -251,6 +251,7 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) prepar
 | 210 | 31-10-2026 | [count nice subarrays](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/210_count_nice_subarrays.cpp) | Leetcode | medium | Sliding Window Difference — Exactly(K) via AtMost(K) - AtMost(K - 1) tracking odds in O(N) time O(1) space | 10-Sliding-Window-Two-Pointer/210_count_nice_subarrays.cpp|
 | 211 | 31-10-2026 | [longest substring with k distinct](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/211_longest_substring_with_k_distinct.cpp) | Leetcode | medium | Sliding Window — tracking at most K distinct characters via hash map in O(N) time O(K) space | 10-Sliding-Window-Two-Pointer/211_longest_substring_with_k_distinct.cpp|
 | 212 | 31-10-2026 | [subarrays with k distinct](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/10-Sliding-Window-Two-Pointer/212_subarrays_with_k_distinct.cpp) | Leetcode | hard | Dual Left-Pointer Sliding Window — simultaneous left1/left2 window tracking in O(N) time O(K) space | 10-Sliding-Window-Two-Pointer/212_subarrays_with_k_distinct.cpp|
+| 213 | 4-11-2026 | [stack using array](https://github.com/TEJA-IIITDM/cpp-dsa-mastery/blob/main/09-Stack-Queues/213_stack_using_array.cpp) | self pratice | easy | Array with topIndex Pointer — constant time O(1) push, pop, and top operations in O(N) space | 09-Stack-Queues/213_stack_using_array.cpp|
 ---
 
 ## 💻 Tech Stack
